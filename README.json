@@ -1,0 +1,3118 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Nextjs Starter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "commerce",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:06:36Z",
+            "owner": "vercel",
+            "repo": "commerce",
+            "stars": 14209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vercel examples",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:35:37Z",
+            "owner": "vercel",
+            "repo": "examples",
+            "stars": 5150
+          }
+        }
+      ],
+      "title": "official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "t3 app",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T10:39:23Z",
+            "owner": "t3-oss",
+            "repo": "create-t3-app",
+            "stars": 29076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-nextjs-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:29:26Z",
+            "owner": "jpedroschmitz",
+            "repo": "typescript-nextjs-starter",
+            "stars": 1434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextarter-chakra",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T16:12:17Z",
+            "owner": "agustinusnathaniel",
+            "repo": "nextarter-chakra",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T06:10:36Z",
+            "owner": "pbteja1998",
+            "repo": "nextjs-starter",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-redux-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:13:27Z",
+            "owner": "CodementorIO",
+            "repo": "nextjs-redux-starter",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-netlify-blog-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T04:31:56Z",
+            "owner": "cassidoo",
+            "repo": "next-netlify-blog-starter",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-typescript",
+          "description": "demo ++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-09T03:43:00Z",
+            "owner": "basementstudio",
+            "repo": "next-typescript",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prisma-next-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-24T05:48:00Z",
+            "owner": "hexrcs",
+            "repo": "prisma-next-auth",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-netlify-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:29:55Z",
+            "owner": "netlify-templates",
+            "repo": "next-netlify-starter",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wild-next",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-02T11:19:59Z",
+            "owner": "madebywild",
+            "repo": "wild-next",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic's Next.js EUI Starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-08-08T18:56:07Z",
+            "owner": "elastic",
+            "repo": "next-eui-starter",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muxt-ts",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-29T19:55:04Z",
+            "owner": "HPouyanmehr",
+            "repo": "muxt-ts",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-with-aos-example",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-11T06:58:12Z",
+            "owner": "brunos3d",
+            "repo": "nextjs-with-aos-example",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-with-locomotive-scroll-example",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-29T19:36:12Z",
+            "owner": "brunos3d",
+            "repo": "nextjs-with-locomotive-scroll-example",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-sass-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-24T15:05:43Z",
+            "owner": "colbyfayock",
+            "repo": "next-sass-starter",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-netlify-portfolio-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T21:41:26Z",
+            "owner": "cassidoo",
+            "repo": "next-netlify-portfolio-starter",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muxt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-02T17:39:27Z",
+            "owner": "HPouyanmehr",
+            "repo": "muxt",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next.js-tailwindcss-template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-13T20:52:50Z",
+            "owner": "imadatyatalah",
+            "repo": "next.js-template",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-multiauthor-blog-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-13T05:05:36Z",
+            "owner": "domhabersack",
+            "repo": "nextjs-multiauthor-blog-starter",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-project-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:35:52Z",
+            "owner": "johnpolacek",
+            "repo": "next-project-starter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js on Lambda via Serverless demo",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-03T04:51:49Z",
+            "owner": "FormidableLabs",
+            "repo": "nextjs-serverless-demo",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-cache-effective-pages",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-11T01:21:05Z",
+            "owner": "bmstefanski",
+            "repo": "next-cache-effective-pages",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-next-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:59:10Z",
+            "owner": "KASTINpl",
+            "repo": "react-next-starter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-lotus-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-18T20:59:38Z",
+            "owner": "ayuhito",
+            "repo": "next-lotus-starter",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-12",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-26T16:36:53Z",
+            "owner": "brunos3d",
+            "repo": "nextjs-12",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "use-next-blurhash-hook-example",
+          "description": "demo ++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-07T03:09:33Z",
+            "owner": "brunos3d",
+            "repo": "use-next-blurhash-hook-example",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextplate",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "starter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Boilerplate and Starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T23:07:09Z",
+            "owner": "ixartz",
+            "repo": "Next-js-Boilerplate",
+            "stars": 13044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-nextjs-tailwind-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:31:48Z",
+            "owner": "theodorusclarence",
+            "repo": "ts-nextjs-tailwind-starter",
+            "stars": 3416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Starter Tailwind",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-27T04:16:32Z",
+            "owner": "taylorbryant",
+            "repo": "next-starter-tailwind",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-app-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:03:58Z",
+            "owner": "jellydn",
+            "repo": "next-app-starter",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-fullstack-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-25T09:02:29Z",
+            "owner": "egoist",
+            "repo": "next-fullstack-starter",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-advanced-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-12T17:27:14Z",
+            "owner": "agcty",
+            "repo": "nextjs-advanced-starter",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-typescript-tailwindcss-starter",
+          "description": "demo",
+          "children": []
+        }
+      ],
+      "title": "starter + tailwind"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextjs-planetscale-starter",
+          "description": "demo - docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-13T21:07:25Z",
+            "owner": "planetscale",
+            "repo": "nextjs-planetscale-starter",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T20:54:22Z",
+            "owner": "planetscale",
+            "repo": "nextjs-starter",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "starter + planetscale"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "with-nextjs-i18n-routing",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-25T11:42:55Z",
+            "owner": "hygraph",
+            "repo": "hygraph-examples",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-nextjs-image-loader",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-25T11:42:55Z",
+            "owner": "hygraph",
+            "repo": "hygraph-examples",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-nextjs-image",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-25T11:42:55Z",
+            "owner": "hygraph",
+            "repo": "hygraph-examples",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-nextjs-mdx-remote",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-25T11:42:55Z",
+            "owner": "hygraph",
+            "repo": "hygraph-examples",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-nextjs",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-25T11:42:55Z",
+            "owner": "hygraph",
+            "repo": "hygraph-examples",
+            "stars": 618
+          }
+        }
+      ],
+      "title": "starter + GraphCMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-contentful-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T20:42:27Z",
+            "owner": "cassidoo",
+            "repo": "next-contentful-starter",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-contentful-graphql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-06T15:24:57Z",
+            "owner": "basementstudio",
+            "repo": "next-contentful-graphql",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "starter + contentful"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-pwa-template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-24T23:31:36Z",
+            "owner": "mvllow",
+            "repo": "next-pwa-template",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-pwa",
+          "description": "demo",
+          "children": []
+        }
+      ],
+      "title": "starter + PWA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-web3-boilerplate",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-09-12T18:02:56Z",
+            "owner": "mirshko",
+            "repo": "next-web3-boilerplate",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solidity-nextjs-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-04T11:04:06Z",
+            "owner": "tomhirst",
+            "repo": "solidity-nextjs-starter",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web3-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T22:06:52Z",
+            "owner": "nickytonline",
+            "repo": "web3-starter",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "starter + web3"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextein-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-18T18:51:42Z",
+            "owner": "elmasse",
+            "repo": "nextein-starter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextein-tailwind-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-18T18:58:28Z",
+            "owner": "elmasse",
+            "repo": "nextein-tailwind-starter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextein-i18n-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-18T19:03:14Z",
+            "owner": "elmasse",
+            "repo": "nextein-i18n-starter",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "starter + Nextein"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nextjs Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Taxonomy",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T12:01:38Z",
+            "owner": "shadcn-ui",
+            "repo": "taxonomy",
+            "stars": 19287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextra",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T20:39:04Z",
+            "owner": "shuding",
+            "repo": "nextra",
+            "stars": 13901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-saas-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:39:27Z",
+            "owner": "Blazity",
+            "repo": "next-saas-starter",
+            "stars": 1685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startup - Free Next.js Startup Website Template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T05:47:05Z",
+            "owner": "NextJSTemplates",
+            "repo": "startup-nextjs",
+            "stars": 1670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-boilerplate",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-04T17:07:57Z",
+            "owner": "pankod",
+            "repo": "next-boilerplate",
+            "stars": 1613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ultimate-saas-ts",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-21T17:24:20Z",
+            "owner": "gmpetrov",
+            "repo": "ultimate-saas-ts",
+            "stars": 1280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-next-boilerplate",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-09-17T05:18:21Z",
+            "owner": "react-next-boilerplate",
+            "repo": "react-next-boilerplate",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-eui-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-08-08T18:56:07Z",
+            "owner": "elastic",
+            "repo": "next-eui-starter",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theBag",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-08T09:42:11Z",
+            "owner": "HPouyanmehr",
+            "repo": "theBag",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-dev-studio",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-08-27T00:57:26Z",
+            "owner": "lwz7512",
+            "repo": "next-dev-studio",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cna-chakra-ui-template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-05T16:11:23Z",
+            "owner": "imadatyatalah",
+            "repo": "cna-chakra-ui-template",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-nextjs-starter",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:38:02Z",
+            "owner": "prezly",
+            "repo": "theme-nextjs-starter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rnb-site",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T20:45:36Z",
+            "owner": "react-next-boilerplate",
+            "repo": "rnb-site",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextacular",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-30T12:31:52Z",
+            "owner": "nextacular",
+            "repo": "nextacular",
+            "stars": 1382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextra-theme-docs",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-13T21:14:06Z",
+            "owner": "vercel",
+            "repo": "swr-site",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextBook",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T22:00:20Z",
+            "owner": "amiroff",
+            "repo": "NextBook",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperdocs",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-14T05:03:24Z",
+            "owner": "lalit2005",
+            "repo": "hyperdocs",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-smooth-doc",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-08T13:12:35Z",
+            "owner": "lwz7512",
+            "repo": "next-smooth-doc",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "productlog-nextjs-theme",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T10:13:38Z",
+            "owner": "apvarun",
+            "repo": "productlog-nextjs-theme",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odoc",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-05T02:12:08Z",
+            "owner": "ttttonyhe",
+            "repo": "odoc",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "docs templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tailwind-nextjs-starter-blog",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T15:11:33Z",
+            "owner": "timlrx",
+            "repo": "tailwind-nextjs-starter-blog",
+            "stars": 10537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next-js-Blog-Boilerplate",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-31T15:10:05Z",
+            "owner": "ixartz",
+            "repo": "Next-js-Blog-Boilerplate",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-blog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T02:36:32Z",
+            "owner": "tscanlin",
+            "repo": "next-blog",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-mdx-blog-kit",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T13:52:20Z",
+            "owner": "lorenseanstewart",
+            "repo": "nextjs-mdx-blog-kit",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-netlify-blog-template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-05T18:26:18Z",
+            "owner": "wutali",
+            "repo": "nextjs-netlify-blog-template",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-typescript-mdx-blog",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-18T04:31:48Z",
+            "owner": "ChangoMan",
+            "repo": "nextjs-mdx-blog",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next Blog Firestore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-25T07:41:34Z",
+            "owner": "suevalov",
+            "repo": "next-blog-firestore",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-mdx-blog-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T08:13:12Z",
+            "owner": "johnpolacek",
+            "repo": "nextjs-mdx-blog-starter",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Medium style boilerplate blog",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T17:00:37Z",
+            "owner": "maxigimenez",
+            "repo": "next-medium-blog-boilerplate",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-starter-novela",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-01-31T13:59:48Z",
+            "owner": "tinialabs",
+            "repo": "next-starter-novela",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextra-theme-blog",
+          "description": "demo",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-tailwind-simple-blog",
+          "description": "demo",
+          "children": []
+        }
+      ],
+      "title": "Blog Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-startd",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-21T17:27:45Z",
+            "owner": "jkytoela",
+            "repo": "next-startd",
+            "stars": 726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-portfolio-dev",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:58:47Z",
+            "owner": "smakosh",
+            "repo": "next-portfolio-dev",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-chakra-ui-portfolio-template",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T01:00:55Z",
+            "owner": "imadatyatalah",
+            "repo": "nextjs-chakra-ui-portfolio-template",
+            "stars": 136
+          }
+        }
+      ],
+      "title": "portfolio templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextjs-starter-medusa",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T12:19:05Z",
+            "owner": "medusajs",
+            "repo": "nextjs-starter-medusa",
+            "stars": 2796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jamstack ECommerce Next",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T17:53:32Z",
+            "owner": "jamstack-cms",
+            "repo": "jamstack-ecommerce",
+            "stars": 1958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Storefront",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:21:26Z",
+            "owner": "saleor",
+            "repo": "storefront",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commercejs-nextjs-demo-store",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-29T21:24:18Z",
+            "owner": "chec",
+            "repo": "commercejs-nextjs-demo-store",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "headless-dropshipping-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:49:53Z",
+            "owner": "notrab",
+            "repo": "headless-dropshipping-starter",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Ecommerce",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T02:20:55Z",
+            "owner": "lucaspulliese",
+            "repo": "next-ecommerce",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystallize-nextjs-boilerplate",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-25T12:38:22Z",
+            "owner": "CrystallizeAPI",
+            "repo": "crystallize-nextjs-boilerplate",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medusa-starter-default",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T10:25:50Z",
+            "owner": "medusajs",
+            "repo": "medusa-starter-default",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-store",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T09:17:17Z",
+            "owner": "okbel",
+            "repo": "next-store",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "e-commerce templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HULL",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T13:57:37Z",
+            "owner": "ndimatteo",
+            "repo": "HULL",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-shopify-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-01-12T08:01:03Z",
+            "owner": "btahir",
+            "repo": "next-shopify-starter",
+            "stars": 904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-shopify",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-25T23:23:47Z",
+            "owner": "BuilderIO",
+            "repo": "nextjs-shopify",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-shopify-ts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T08:42:49Z",
+            "owner": "basementstudio",
+            "repo": "next-shopify-ts",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Nextjs + Shopify"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-wordpress-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T17:10:57Z",
+            "owner": "colbyfayock",
+            "repo": "next-wordpress-starter",
+            "stars": 1281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-wordpress-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-02-27T19:00:24Z",
+            "owner": "WebDevStudios",
+            "repo": "nextjs-wordpress-starter",
+            "stars": 733
+          }
+        }
+      ],
+      "title": "Nextjs + Wordpress"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-drupal",
+          "description": "documentation - demo - demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:15:26Z",
+            "owner": "chapter-three",
+            "repo": "next-drupal",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-drupal-examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-28T07:37:55Z",
+            "owner": "shadcn",
+            "repo": "next-drupal-examples",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Nextjs + Drupal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tina Starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-27T21:18:32Z",
+            "owner": "tinacms",
+            "repo": "tina-cloud-starter",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-blog-starter-graphql",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-07-12T15:55:54Z",
+            "owner": "tinacms",
+            "repo": "next-blog-starter-graphql",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Nextjs + TinaCMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextjs-notion-starter-kit",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:12:12Z",
+            "owner": "transitive-bullshit",
+            "repo": "nextjs-notion-starter-kit",
+            "stars": 7028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-blog",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-08T13:51:04Z",
+            "owner": "ijjk",
+            "repo": "notion-blog",
+            "stars": 3859
+          }
+        }
+      ],
+      "title": "Nextjs + Notion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-seo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T19:47:06Z",
+            "owner": "garmeeh",
+            "repo": "next-seo",
+            "stars": 8509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-themes",
+          "description": "demo -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-25T05:25:42Z",
+            "owner": "pacocoursey",
+            "repo": "next-themes",
+            "stars": 6327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-pwa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-27T00:29:09Z",
+            "owner": "shadowwalker",
+            "repo": "next-pwa",
+            "stars": 4088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-sitemap",
+          "description": "how to",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T14:13:39Z",
+            "owner": "iamvishnusankar",
+            "repo": "next-sitemap",
+            "stars": 3743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-mdx-remote",
+          "description": "++",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T06:02:26Z",
+            "owner": "hashicorp",
+            "repo": "next-mdx-remote",
+            "stars": 3076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-translate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T16:54:36Z",
+            "owner": "aralroca",
+            "repo": "next-translate",
+            "stars": 2737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-optimized-images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T23:37:36Z",
+            "owner": "cyrilwanner",
+            "repo": "next-optimized-images",
+            "stars": 2234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx-bundler",
+          "description": "++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T06:51:47Z",
+            "owner": "kentcdodds",
+            "repo": "mdx-bundler",
+            "stars": 1903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next-offline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T23:02:48Z",
+            "owner": "hanford",
+            "repo": "next-offline",
+            "stars": 1599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-in-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-26T21:26:20Z",
+            "owner": "andreipfeiffer",
+            "repo": "css-in-js",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-progressbar",
+          "description": "demo - documentatios ++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-18T21:22:53Z",
+            "owner": "apal21",
+            "repo": "nextjs-progressbar",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cookies-next",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-20T06:31:53Z",
+            "owner": "andreizanik",
+            "repo": "cookies-next",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-data-hooks",
+          "description": "example getStaticPropsgetServerSideProps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:01:13Z",
+            "owner": "ricokahler",
+            "repo": "next-data-hooks",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-page-tester",
+          "description": "example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-03T08:17:15Z",
+            "owner": "next-page-tester",
+            "repo": "next-page-tester",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js + MDX Enhanced",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-03-23T19:44:25Z",
+            "owner": "hashicorp",
+            "repo": "next-mdx-enhanced",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-api-decorators",
+          "description": "documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-05T06:54:24Z",
+            "owner": "instantcommerce",
+            "repo": "next-api-decorators",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-unused",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T18:43:05Z",
+            "owner": "pacocoursey",
+            "repo": "next-unused",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdnext",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T05:01:58Z",
+            "owner": "domitriusclark",
+            "repo": "mdnext",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx-embed",
+          "description": "++ - documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-08T17:36:58Z",
+            "owner": "PaulieScanlon",
+            "repo": "mdx-embed",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-plugin-preval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:31:24Z",
+            "owner": "ricokahler",
+            "repo": "next-plugin-preval",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-api-og-image",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-24T15:03:51Z",
+            "owner": "neg4n",
+            "repo": "next-api-og-image",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-dark-mode",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T19:01:04Z",
+            "owner": "xeoneux",
+            "repo": "next-dark-mode",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-redirect",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T11:08:51Z",
+            "owner": "pablopunk",
+            "repo": "nextjs-redirect",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-image-proxy",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:03:13Z",
+            "owner": "Blazity",
+            "repo": "next-image-proxy",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "use-next-blurhash",
+          "description": "Solved -Vercel Deployment Error ++",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-09-04T00:49:19Z",
+            "owner": "ivansevillaa",
+            "repo": "use-next-blurhash",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-superjson",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-18T16:51:04Z",
+            "owner": "remorses",
+            "repo": "next-superjson",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-color-mode",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:14:28Z",
+            "owner": "Blazity",
+            "repo": "nextjs-color-mode",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-i18next",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T12:06:07Z",
+            "owner": "isaachinman",
+            "repo": "next-i18next",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Nextjs Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsonvisio.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T16:37:02Z",
+            "owner": "AykutSarac",
+            "repo": "jsoncrack.com",
+            "stars": 44289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chakra-ui",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:54:40Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui",
+            "stars": 40574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blitz",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T13:13:37Z",
+            "owner": "blitz-js",
+            "repo": "blitz",
+            "stars": 14134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leerob.io",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T08:59:55Z",
+            "owner": "leerob",
+            "repo": "next-mdx-blog",
+            "stars": 7575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-avatar",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T16:37:59Z",
+            "owner": "Mayandev",
+            "repo": "notion-avatar",
+            "stars": 3217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chakra-templates",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-12-01T14:13:16Z",
+            "owner": "hauptrolle",
+            "repo": "chakra-templates",
+            "stars": 1533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "egghead-next",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:22:34Z",
+            "owner": "skillrecordings",
+            "repo": "egghead-next",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "howtoprofessionallysay",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-05T07:37:48Z",
+            "owner": "AkashRajpurohit",
+            "repo": "howtoprofessionallysay",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heroicons",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-19T02:10:59Z",
+            "owner": "zaydek",
+            "repo": "heroicons.dev",
+            "stars": 1237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencollective-frontend",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:40:45Z",
+            "owner": "opencollective",
+            "repo": "opencollective-frontend",
+            "stars": 894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blog.maximeheckel.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:54:01Z",
+            "owner": "MaximeHeckel",
+            "repo": "blog.maximeheckel.com",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danielwirtz.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:35:48Z",
+            "owner": "wirtzdan",
+            "repo": "website",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chakra-ui docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "MDX",
+            "last_commit": "2024-01-23T09:10:16Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui-docs",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nirmalyaghosh.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-01-31T00:20:53Z",
+            "owner": "ghoshnirmalya",
+            "repo": "nirmalyaghosh.com",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adebayosegun.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-05-18T12:47:32Z",
+            "owner": "segunadebayo",
+            "repo": "adebayosegun.com",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mirror-next",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-22T00:10:33Z",
+            "owner": "m1guelpf",
+            "repo": "mirror-next",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contentlayer.dev",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-16T22:51:51Z",
+            "owner": "contentlayerdev",
+            "repo": "website",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planetscale docs",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-11-12T09:41:42Z",
+            "owner": "planetscale",
+            "repo": "docs",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100ms Documentation",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:50:51Z",
+            "owner": "100mslive",
+            "repo": "100ms-docs",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-typescript-postgresql-graphql-realtime-chat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-20T10:54:10Z",
+            "owner": "wundergraph",
+            "repo": "nextjs-typescript-postgresql-graphql-realtime-chat",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playwright-community",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2025-12-29T13:51:10Z",
+            "owner": "playwright-unofficial-community-archive",
+            "repo": "playwright-community",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vimcolors.org",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-02T15:13:13Z",
+            "owner": "pablopunk",
+            "repo": "vimcolors.org",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "symbols-search",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-09T10:10:38Z",
+            "owner": "farhan2077",
+            "repo": "symbols-search",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pablopunk.com",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-04-29T08:52:54Z",
+            "owner": "pablopunk",
+            "repo": "pablopunk.com",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fantasy-docs-next",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-25T11:46:02Z",
+            "owner": "whatadewitt",
+            "repo": "fantasy-docs-next",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nfinity Bot List docs",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2023-11-09T09:47:41Z",
+            "owner": "InfinityBotList",
+            "repo": "Documentation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aravindballa website",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-02-11T04:33:09Z",
+            "owner": "aravindballa",
+            "repo": "website",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oscarrier",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-14T17:41:05Z",
+            "owner": "ivansevillaa",
+            "repo": "oscarrier",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elmasse.io",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-06T20:44:11Z",
+            "owner": "elmasse",
+            "repo": "elmasse.io",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxigimenez",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T05:35:27Z",
+            "owner": "maxigimenez",
+            "repo": "www",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bstefanski.com",
+          "description": "website",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "delba.dev",
+          "description": "website",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "domhabersack.com",
+          "description": "website",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "magicbell docs",
+          "description": "website",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "magicbell documentation",
+          "description": "website",
+          "children": []
+        }
+      ],
+      "title": "Build with Nextjs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-runtime",
+          "description": "documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-17T19:52:43Z",
+            "owner": "smeijer",
+            "repo": "next-runtime",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-preact-demo",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-02T07:55:38Z",
+            "owner": "developit",
+            "repo": "nextjs-preact-demo",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-09-25T06:42:33Z",
+            "owner": "micheleriva",
+            "repo": "krabs",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trello-clone",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:58:33Z",
+            "owner": "knowankit",
+            "repo": "trello-clone",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pliny",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-08T10:35:54Z",
+            "owner": "timlrx",
+            "repo": "pliny",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-advanced-apollo-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T22:18:42Z",
+            "owner": "nikitowsky",
+            "repo": "next-advanced-apollo-starter",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TweenPages",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-01T13:22:10Z",
+            "owner": "johnpolacek",
+            "repo": "TweenPages",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Leaflet Starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T15:43:11Z",
+            "owner": "colbyfayock",
+            "repo": "next-leaflet-starter",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "static-next",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-15T06:50:10Z",
+            "owner": "willemliu",
+            "repo": "static-next",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-prism-markdown",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-04T16:25:53Z",
+            "owner": "leerob",
+            "repo": "nextjs-prism-markdown",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-nextjs-redux-toolkit-material-ui-example",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T04:24:48Z",
+            "owner": "treetips",
+            "repo": "typescript-nextjs-redux-toolkit-material-ui-example",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-hasura-trello-clone",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-18T22:54:38Z",
+            "owner": "ghoshnirmalya",
+            "repo": "nextjs-hasura-trello-clone",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zora-nextjs-app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-08T21:53:49Z",
+            "owner": "dabit3",
+            "repo": "zora-nextjs-app",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "example-next-isr-with-swr",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-14T04:42:36Z",
+            "owner": "joe-bell",
+            "repo": "example-next-isr-with-swr",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-vanilla-extract-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-03T09:20:51Z",
+            "owner": "markdalgleish",
+            "repo": "nextjs-vanilla-extract-example",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-prisma-starter",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:52:54Z",
+            "owner": "leerob",
+            "repo": "next-prisma-starter",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-authentication-using-strapi-and-next-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-22T12:34:42Z",
+            "owner": "ghoshnirmalya",
+            "repo": "nextjs-authentication-using-strapi-and-next-auth",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-clone-using-nextjs-and-prisma",
+          "description": "demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-15T07:32:45Z",
+            "owner": "ghoshnirmalya",
+            "repo": "twitter-clone-using-nextjs-and-prisma",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-type-graphql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-08T18:39:15Z",
+            "owner": "platypusrex",
+            "repo": "next-type-graphql",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volleyball scoreboard application",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-11-26T22:36:26Z",
+            "owner": "jpedroschmitz",
+            "repo": "volley",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Nextjs Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-auth",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T19:42:19Z",
+            "owner": "nextauthjs",
+            "repo": "next-auth",
+            "stars": 28325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Next.js Component",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-28T06:41:00Z",
+            "owner": "serverless-nextjs",
+            "repo": "serverless-next.js",
+            "stars": 4461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iron-session",
+          "description": "documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T13:55:54Z",
+            "owner": "vvo",
+            "repo": "iron-session",
+            "stars": 4140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-redux-wrapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-22T21:18:40Z",
+            "owner": "kirill-konshin",
+            "repo": "next-redux-wrapper",
+            "stars": 2673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nookies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:14:26Z",
+            "owner": "maticzav",
+            "repo": "nookies",
+            "stars": 2353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-connect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-15T06:39:41Z",
+            "owner": "hoangvvo",
+            "repo": "next-connect",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faustjs",
+          "description": "Getting Started with Next.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:19:04Z",
+            "owner": "wpengine",
+            "repo": "faustjs",
+            "stars": 1594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polygon-ethereum-nextjs-marketplace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-26T01:48:25Z",
+            "owner": "dabit3",
+            "repo": "polygon-ethereum-nextjs-marketplace",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reflexjs",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T23:42:14Z",
+            "owner": "reflexjs",
+            "repo": "reflexjs",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextein",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-31T14:23:31Z",
+            "owner": "elmasse",
+            "repo": "nextein",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-boost",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T21:42:21Z",
+            "owner": "next-boost",
+            "repo": "next-boost",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-with-apollo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-24T17:09:28Z",
+            "owner": "lfades",
+            "repo": "next-with-apollo",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-bundle-analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-11T03:15:10Z",
+            "owner": "hashicorp",
+            "repo": "nextjs-bundle-analysis",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-s3-upload",
+          "description": "documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T21:09:53Z",
+            "owner": "ryanto",
+            "repo": "next-s3-upload",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-session",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-23T06:21:26Z",
+            "owner": "hoangvvo",
+            "repo": "next-session",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-dapp-starter-ts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-21T17:43:41Z",
+            "owner": "G3root",
+            "repo": "nextjs-dapp-starter-ts",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mordred",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T04:20:42Z",
+            "owner": "egoist",
+            "repo": "mordred",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supabase-nextjs-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-30T04:15:37Z",
+            "owner": "dabit3",
+            "repo": "supabase-nextjs-auth",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-remote-refresh",
+          "description": "example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T16:48:53Z",
+            "owner": "souporserious",
+            "repo": "next-remote-refresh",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-real-viewport",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-30T01:45:45Z",
+            "owner": "basementstudio",
+            "repo": "next-real-viewport",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building a Product Hunt clone app using Hasura and Next.js",
+          "description": "product-hunt-clone-using-nextjs-and-hasura",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-13T21:44:25Z",
+            "owner": "ghoshnirmalya",
+            "repo": "product-hunt-clone-using-nextjs-and-hasura",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-lit-token-gating",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-02T20:20:54Z",
+            "owner": "dabit3",
+            "repo": "nextjs-lit-token-gating",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-api-compose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-02T15:42:05Z",
+            "owner": "neg4n",
+            "repo": "next-api-compose",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-hcaptcha",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-08T14:46:06Z",
+            "owner": "neg4n",
+            "repo": "next-hcaptcha",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js and Prismic.io Blog Series",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-12T18:16:19Z",
+            "owner": "garmeeh",
+            "repo": "nextjs-prismic-blog-series",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:54.445Z",
+    "original_repository": "re50urces/Awesome-NextJs",
+    "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
+    "enhanced_repository": "enhansome/enhansome-Awesome-NextJs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Nextjs with stars"
+  }
+}
