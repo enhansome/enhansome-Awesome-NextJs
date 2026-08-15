@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14209
+            "stars": 14210
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:35:37Z",
+            "last_commit": "2026-08-14T22:31:31Z",
             "owner": "vercel",
             "repo": "examples",
             "stars": 5151
@@ -53,7 +53,7 @@
             "last_commit": "2025-12-13T10:39:23Z",
             "owner": "t3-oss",
             "repo": "create-t3-app",
-            "stars": 29080
+            "stars": 29083
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-08-01T23:07:09Z",
             "owner": "ixartz",
             "repo": "Next-js-Boilerplate",
-            "stars": 13043
+            "stars": 13045
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19285
+            "stars": 19284
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-07-31T20:39:04Z",
             "owner": "shuding",
             "repo": "nextra",
-            "stars": 13903
+            "stars": 13904
           }
         },
         {
@@ -821,7 +821,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T21:39:27Z",
+            "last_commit": "2026-08-14T22:42:39Z",
             "owner": "Blazity",
             "repo": "next-saas-starter",
             "stars": 1685
@@ -947,7 +947,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T13:38:02Z",
+            "last_commit": "2026-08-15T01:59:29Z",
             "owner": "prezly",
             "repo": "theme-nextjs-starter",
             "stars": 13
@@ -998,7 +998,7 @@
             "last_commit": "2026-08-14T13:08:37Z",
             "owner": "vercel",
             "repo": "swr-site",
-            "stars": 510
+            "stars": 511
           }
         },
         {
@@ -1088,7 +1088,7 @@
             "last_commit": "2026-02-08T15:11:33Z",
             "owner": "timlrx",
             "repo": "tailwind-nextjs-starter-blog",
-            "stars": 10538
+            "stars": 10539
           }
         },
         {
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-08-11T16:21:26Z",
             "owner": "saleor",
             "repo": "storefront",
-            "stars": 1581
+            "stars": 1582
           }
         },
         {
@@ -1485,7 +1485,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T17:10:57Z",
+            "last_commit": "2026-08-15T02:10:52Z",
             "owner": "colbyfayock",
             "repo": "next-wordpress-starter",
             "stars": 1281
@@ -1638,7 +1638,7 @@
             "last_commit": "2026-02-25T05:25:42Z",
             "owner": "pacocoursey",
             "repo": "next-themes",
-            "stars": 6326
+            "stars": 6327
           }
         },
         {
@@ -1666,7 +1666,7 @@
             "last_commit": "2026-05-13T14:13:39Z",
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3743
+            "stars": 3744
           }
         },
         {
@@ -1789,7 +1789,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:13:21Z",
+            "last_commit": "2026-08-15T13:34:53Z",
             "owner": "ricokahler",
             "repo": "next-data-hooks",
             "stars": 716
@@ -2022,7 +2022,7 @@
             "last_commit": "2026-06-15T16:37:02Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44290
+            "stars": 44289
           }
         },
         {
@@ -2033,7 +2033,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:39:42Z",
+            "last_commit": "2026-08-15T12:16:45Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
             "stars": 40577
@@ -2064,7 +2064,7 @@
             "last_commit": "2026-08-05T08:59:55Z",
             "owner": "leerob",
             "repo": "next-mdx-blog",
-            "stars": 7575
+            "stars": 7576
           }
         },
         {
@@ -2159,7 +2159,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:04:57Z",
+            "last_commit": "2026-08-15T16:33:34Z",
             "owner": "MaximeHeckel",
             "repo": "blog.maximeheckel.com",
             "stars": 728
@@ -3108,7 +3108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:12:03.968Z",
+    "last_updated": "2026-08-15T21:04:30.560Z",
     "original_repository": "re50urces/Awesome-NextJs",
     "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
     "enhanced_repository": "enhansome/enhansome-Awesome-NextJs",
