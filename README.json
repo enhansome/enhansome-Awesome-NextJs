@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14212
+            "stars": 14216
           }
         },
         {
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:58:21Z",
+            "last_commit": "2026-08-17T11:56:03Z",
             "owner": "jpedroschmitz",
             "repo": "typescript-nextjs-starter",
             "stars": 1434
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T01:29:55Z",
+            "last_commit": "2026-08-17T02:32:55Z",
             "owner": "netlify-templates",
             "repo": "next-netlify-starter",
             "stars": 141
@@ -429,7 +429,7 @@
             "last_commit": "2026-08-01T23:07:09Z",
             "owner": "ixartz",
             "repo": "Next-js-Boilerplate",
-            "stars": 13044
+            "stars": 13042
           }
         },
         {
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-08-11T16:21:26Z",
             "owner": "saleor",
             "repo": "storefront",
-            "stars": 1583
+            "stars": 1585
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-08-14T19:47:23Z",
             "owner": "notrab",
             "repo": "headless-dropshipping-starter",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -1604,7 +1604,7 @@
             "last_commit": "2024-04-08T13:51:04Z",
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3859
+            "stars": 3858
           }
         }
       ],
@@ -1624,7 +1624,7 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8510
+            "stars": 8509
           }
         },
         {
@@ -1680,7 +1680,7 @@
             "last_commit": "2026-03-26T06:02:26Z",
             "owner": "hashicorp",
             "repo": "next-mdx-remote",
-            "stars": 3075
+            "stars": 3074
           }
         },
         {
@@ -1792,7 +1792,7 @@
             "last_commit": "2026-08-15T13:34:53Z",
             "owner": "ricokahler",
             "repo": "next-data-hooks",
-            "stars": 716
+            "stars": 715
           }
         },
         {
@@ -1890,7 +1890,7 @@
             "last_commit": "2026-08-14T18:48:09Z",
             "owner": "ricokahler",
             "repo": "next-plugin-preval",
-            "stars": 254
+            "stars": 253
           }
         },
         {
@@ -2022,7 +2022,7 @@
             "last_commit": "2026-06-15T16:37:02Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44290
+            "stars": 44291
           }
         },
         {
@@ -2033,7 +2033,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:26:56Z",
+            "last_commit": "2026-08-17T18:54:43Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
             "stars": 40579
@@ -2050,7 +2050,7 @@
             "last_commit": "2025-11-21T13:13:37Z",
             "owner": "blitz-js",
             "repo": "blitz",
-            "stars": 14134
+            "stars": 14133
           }
         },
         {
@@ -2064,7 +2064,7 @@
             "last_commit": "2026-08-05T08:59:55Z",
             "owner": "leerob",
             "repo": "next-mdx-blog",
-            "stars": 7576
+            "stars": 7574
           }
         },
         {
@@ -2159,10 +2159,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:33:34Z",
+            "last_commit": "2026-08-16T23:56:52Z",
             "owner": "MaximeHeckel",
             "repo": "blog.maximeheckel.com",
-            "stars": 728
+            "stars": 729
           }
         },
         {
@@ -2764,7 +2764,7 @@
             "last_commit": "2026-07-22T19:42:19Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28326
+            "stars": 28327
           }
         },
         {
@@ -2845,7 +2845,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:19:04Z",
+            "last_commit": "2026-08-17T20:11:47Z",
             "owner": "wpengine",
             "repo": "faustjs",
             "stars": 1595
@@ -3108,7 +3108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:02:03.999Z",
+    "last_updated": "2026-08-17T21:12:04.114Z",
     "original_repository": "re50urces/Awesome-NextJs",
     "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
     "enhanced_repository": "enhansome/enhansome-Awesome-NextJs",
