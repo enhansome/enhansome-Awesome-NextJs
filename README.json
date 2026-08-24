@@ -451,7 +451,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13055
+                "stars": 13056
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2026-07-31T20:39:04Z",
                 "owner": "shuding",
                 "repo": "nextra",
-                "stars": 13909
+                "stars": 13911
               }
             },
             {
@@ -1852,7 +1852,7 @@
                 "archived": false,
                 "id": 329971644,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:47:10Z",
+                "last_commit": "2026-08-24T15:22:46Z",
                 "owner": "transitive-bullshit",
                 "repo": "nextjs-notion-starter-kit",
                 "stars": 7027
@@ -1870,7 +1870,7 @@
                 "last_commit": "2024-04-08T13:51:04Z",
                 "owner": "ijjk",
                 "repo": "notion-blog",
-                "stars": 3858
+                "stars": 3859
               }
             }
           ],
@@ -2322,7 +2322,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44332
+            "stars": 44334
           }
         },
         {
@@ -2334,10 +2334,10 @@
             "archived": false,
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T16:15:30Z",
+            "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40590
+            "stars": 40591
           }
         },
         {
@@ -2352,7 +2352,7 @@
             "last_commit": "2025-11-21T13:13:37Z",
             "owner": "blitz-js",
             "repo": "blitz",
-            "stars": 14129
+            "stars": 14128
           }
         },
         {
@@ -2382,7 +2382,7 @@
             "last_commit": "2026-06-06T16:37:59Z",
             "owner": "Mayandev",
             "repo": "notion-avatar",
-            "stars": 3219
+            "stars": 3218
           }
         },
         {
@@ -2442,7 +2442,7 @@
             "last_commit": "2023-12-19T02:10:59Z",
             "owner": "zaydek",
             "repo": "heroicons.dev",
-            "stars": 1238
+            "stars": 1237
           }
         },
         {
@@ -2454,10 +2454,10 @@
             "archived": false,
             "id": 76222279,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:31:17Z",
+            "last_commit": "2026-08-24T16:17:52Z",
             "owner": "opencollective",
             "repo": "opencollective-frontend",
-            "stars": 896
+            "stars": 895
           }
         },
         {
@@ -2472,7 +2472,7 @@
             "last_commit": "2026-08-18T01:01:08Z",
             "owner": "MaximeHeckel",
             "repo": "blog.maximeheckel.com",
-            "stars": 732
+            "stars": 733
           }
         },
         {
@@ -3174,7 +3174,7 @@
             "last_commit": "2026-08-17T20:11:47Z",
             "owner": "wpengine",
             "repo": "faustjs",
-            "stars": 1597
+            "stars": 1598
           }
         },
         {
@@ -3189,7 +3189,7 @@
             "last_commit": "2023-09-26T01:48:25Z",
             "owner": "dabit3",
             "repo": "polygon-ethereum-nextjs-marketplace",
-            "stars": 1323
+            "stars": 1324
           }
         },
         {
@@ -3452,7 +3452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:59.456Z",
+    "last_updated": "2026-08-24T21:15:01.798Z",
     "original_repository": "re50urces/Awesome-NextJs",
     "original_repository_id": 479639331,
     "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
