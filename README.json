@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T01:06:36Z",
                 "owner": "vercel",
                 "repo": "commerce",
-                "stars": 14237
+                "stars": 14236
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2025-12-13T10:39:23Z",
                 "owner": "t3-oss",
                 "repo": "create-t3-app",
-                "stars": 29098
+                "stars": 29097
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-08-03T18:31:48Z",
                 "owner": "theodorusclarence",
                 "repo": "ts-nextjs-tailwind-starter",
-                "stars": 3416
+                "stars": 3417
               }
             },
             {
@@ -1570,7 +1570,7 @@
                 "archived": false,
                 "id": 350874478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:52:54Z",
+                "last_commit": "2026-08-25T03:34:13Z",
                 "owner": "notrab",
                 "repo": "headless-dropshipping-starter",
                 "stars": 846
@@ -1618,7 +1618,7 @@
                 "last_commit": "2026-08-14T09:26:15Z",
                 "owner": "medusajs",
                 "repo": "medusa-starter-default",
-                "stars": 203
+                "stars": 204
               }
             },
             {
@@ -2322,7 +2322,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44334
+            "stars": 44335
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40591
+            "stars": 40592
           }
         },
         {
@@ -3084,7 +3084,7 @@
             "last_commit": "2026-07-22T19:42:19Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28341
+            "stars": 28340
           }
         },
         {
@@ -3452,7 +3452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:15:01.798Z",
+    "last_updated": "2026-08-25T06:33:19.293Z",
     "original_repository": "re50urces/Awesome-NextJs",
     "original_repository_id": 479639331,
     "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
