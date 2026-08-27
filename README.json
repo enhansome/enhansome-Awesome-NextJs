@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T01:06:36Z",
                 "owner": "vercel",
                 "repo": "commerce",
-                "stars": 14236
+                "stars": 14237
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2025-12-13T10:39:23Z",
                 "owner": "t3-oss",
                 "repo": "create-t3-app",
-                "stars": 29101
+                "stars": 29102
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13052
+                "stars": 13053
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-04-20T12:01:38Z",
                 "owner": "shadcn-ui",
                 "repo": "taxonomy",
-                "stars": 19288
+                "stars": 19289
               }
             },
             {
@@ -1540,10 +1540,10 @@
                 "archived": false,
                 "id": 398326371,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:45:59Z",
+                "last_commit": "2026-08-27T07:13:26Z",
                 "owner": "saleor",
                 "repo": "storefront",
-                "stars": 1592
+                "stars": 1594
               }
             },
             {
@@ -1655,7 +1655,7 @@
                 "last_commit": "2023-11-03T13:57:37Z",
                 "owner": "ndimatteo",
                 "repo": "HULL",
-                "stars": 1450
+                "stars": 1451
               }
             },
             {
@@ -1941,7 +1941,7 @@
             "last_commit": "2026-05-13T14:13:39Z",
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3744
+            "stars": 3745
           }
         },
         {
@@ -2322,7 +2322,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44337
+            "stars": 44335
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40597
+            "stars": 40598
           }
         },
         {
@@ -2454,7 +2454,7 @@
             "archived": false,
             "id": 76222279,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:14:05Z",
+            "last_commit": "2026-08-27T10:25:56Z",
             "owner": "opencollective",
             "repo": "opencollective-frontend",
             "stars": 895
@@ -2823,7 +2823,7 @@
             "last_commit": "2026-06-30T20:58:33Z",
             "owner": "knowankit",
             "repo": "trello-clone",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -3084,7 +3084,7 @@
             "last_commit": "2026-07-22T19:42:19Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28345
+            "stars": 28344
           }
         },
         {
@@ -3141,7 +3141,7 @@
             "archived": false,
             "id": 117610654,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:59:43Z",
+            "last_commit": "2026-08-27T06:50:54Z",
             "owner": "maticzav",
             "repo": "nookies",
             "stars": 2352
@@ -3452,9 +3452,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:37.346Z",
-    "original_repository": "re50urces/Awesome-NextJs",
-    "original_repository_id": 479639331,
+    "last_updated": "2026-08-27T11:25:28.386Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 479639331,
+      "language": null,
+      "last_commit": "2024-06-29T08:38:53Z",
+      "owner": "re50urces",
+      "repo": "Awesome-NextJs",
+      "stars": 114
+    },
     "original_repository_sha": "995231804d5560c763c7d1fb636c80c141e3bf00",
     "enhanced_repository": "enhansome/enhansome-Awesome-NextJs",
     "enhanced_repository_description": null,
