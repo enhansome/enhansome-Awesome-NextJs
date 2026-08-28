@@ -18,7 +18,8 @@
                 "owner": "vercel",
                 "repo": "commerce",
                 "stars": 14237
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-21T17:30:29Z",
                 "owner": "vercel",
                 "repo": "examples",
-                "stars": 5154
-              }
+                "stars": 5153
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2025-12-13T10:39:23Z",
                 "owner": "t3-oss",
                 "repo": "create-t3-app",
-                "stars": 29102
-              }
+                "stars": 29105
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 248576068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:32:08Z",
+                "last_commit": "2026-08-27T20:23:29Z",
                 "owner": "jpedroschmitz",
                 "repo": "typescript-nextjs-starter",
                 "stars": 1431
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "agustinusnathaniel",
                 "repo": "nextarter-chakra",
                 "stars": 838
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "pbteja1998",
                 "repo": "nextjs-starter",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "CodementorIO",
                 "repo": "nextjs-redux-starter",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "cassidoo",
                 "repo": "next-netlify-blog-starter",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "basementstudio",
                 "repo": "next-typescript",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "hexrcs",
                 "repo": "prisma-next-auth",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "netlify-templates",
                 "repo": "next-netlify-starter",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "madebywild",
                 "repo": "wild-next",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "elastic",
                 "repo": "next-eui-starter",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "HPouyanmehr",
                 "repo": "muxt-ts",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "brunos3d",
                 "repo": "nextjs-with-aos-example",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "brunos3d",
                 "repo": "nextjs-with-locomotive-scroll-example",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "colbyfayock",
                 "repo": "next-sass-starter",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "cassidoo",
                 "repo": "next-netlify-portfolio-starter",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "HPouyanmehr",
                 "repo": "muxt",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "imadatyatalah",
                 "repo": "next.js-template",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "domhabersack",
                 "repo": "nextjs-multiauthor-blog-starter",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "johnpolacek",
                 "repo": "next-project-starter",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "FormidableLabs",
                 "repo": "nextjs-serverless-demo",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "bmstefanski",
                 "repo": "next-cache-effective-pages",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "KASTINpl",
                 "repo": "react-next-starter",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "ayuhito",
                 "repo": "next-lotus-starter",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "brunos3d",
                 "repo": "nextjs-12",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "brunos3d",
                 "repo": "use-next-blurhash-hook-example",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -451,8 +479,9 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13053
-              }
+                "stars": 13055
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "theodorusclarence",
                 "repo": "ts-nextjs-tailwind-starter",
                 "stars": 3417
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "taylorbryant",
                 "repo": "next-starter-tailwind",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -493,11 +524,12 @@
                 "archived": false,
                 "id": 360124240,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:54:55Z",
+                "last_commit": "2026-08-28T04:43:42Z",
                 "owner": "jellydn",
                 "repo": "next-app-starter",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "egoist",
                 "repo": "next-fullstack-starter",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "agcty",
                 "repo": "nextjs-advanced-starter",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -549,7 +583,8 @@
                 "owner": "ryyppy",
                 "repo": "rescript-nextjs-template",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -571,7 +606,8 @@
                 "owner": "planetscale",
                 "repo": "nextjs-planetscale-starter",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -586,7 +622,8 @@
                 "owner": "planetscale",
                 "repo": "nextjs-starter",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -608,7 +645,8 @@
                 "owner": "ghoshnirmalya",
                 "repo": "nextjs-strapi-boilerplate",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -630,7 +668,8 @@
                 "owner": "ghoshnirmalya",
                 "repo": "nextjs-hasura-boilerplate",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -652,7 +691,8 @@
                 "owner": "tinacms",
                 "repo": "tinacms-next-example",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -674,7 +714,8 @@
                 "owner": "hygraph",
                 "repo": "hygraph-examples",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -689,7 +730,8 @@
                 "owner": "hygraph",
                 "repo": "hygraph-examples",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -704,7 +746,8 @@
                 "owner": "hygraph",
                 "repo": "hygraph-examples",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -719,7 +762,8 @@
                 "owner": "hygraph",
                 "repo": "hygraph-examples",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -734,7 +778,8 @@
                 "owner": "hygraph",
                 "repo": "hygraph-examples",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -756,7 +801,8 @@
                 "owner": "cassidoo",
                 "repo": "next-contentful-starter",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "basementstudio",
                 "repo": "next-contentful-graphql",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -793,7 +840,8 @@
                 "owner": "ghoshnirmalya",
                 "repo": "nextjs-strapi-boilerplate",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -815,7 +863,8 @@
                 "owner": "hoangvvo",
                 "repo": "nextjs-mongodb-app",
                 "stars": 1561
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -837,7 +886,8 @@
                 "owner": "mvllow",
                 "repo": "next-pwa-template",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -859,7 +909,8 @@
                 "owner": "mirshko",
                 "repo": "next-web3-boilerplate",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -874,7 +925,8 @@
                 "owner": "tomhirst",
                 "repo": "solidity-nextjs-starter",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -889,7 +941,8 @@
                 "owner": "nickytonline",
                 "repo": "web3-starter",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -911,7 +964,8 @@
                 "owner": "elmasse",
                 "repo": "nextein-starter",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -926,7 +980,8 @@
                 "owner": "elmasse",
                 "repo": "nextein-tailwind-starter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -941,7 +996,8 @@
                 "owner": "elmasse",
                 "repo": "nextein-i18n-starter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -963,7 +1019,8 @@
                 "owner": "nextauthjs",
                 "repo": "next-auth-example",
                 "stars": 4033
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -991,7 +1048,8 @@
                 "owner": "shadcn-ui",
                 "repo": "taxonomy",
                 "stars": 19289
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1064,8 @@
                 "owner": "shuding",
                 "repo": "nextra",
                 "stars": 13911
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1080,8 @@
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
                 "stars": 1685
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1035,8 +1095,9 @@
                 "last_commit": "2025-12-12T05:47:05Z",
                 "owner": "NextJSTemplates",
                 "repo": "startup-nextjs",
-                "stars": 1672
-              }
+                "stars": 1673
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1112,8 @@
                 "owner": "pankod",
                 "repo": "next-boilerplate",
                 "stars": 1614
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1128,8 @@
                 "owner": "gmpetrov",
                 "repo": "ultimate-saas-ts",
                 "stars": 1280
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1144,8 @@
                 "owner": "react-next-boilerplate",
                 "repo": "react-next-boilerplate",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1160,8 @@
                 "owner": "elastic",
                 "repo": "next-eui-starter",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1111,7 +1176,8 @@
                 "owner": "HPouyanmehr",
                 "repo": "theBag",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1192,8 @@
                 "owner": "lwz7512",
                 "repo": "next-dev-studio",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1208,8 @@
                 "owner": "imadatyatalah",
                 "repo": "cna-chakra-ui-template",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1224,8 @@
                 "owner": "prezly",
                 "repo": "theme-nextjs-starter",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1171,7 +1240,8 @@
                 "owner": "react-next-boilerplate",
                 "repo": "rnb-site",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1193,7 +1263,8 @@
                 "owner": "nextacular",
                 "repo": "nextacular",
                 "stars": 1382
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1208,7 +1279,8 @@
                 "owner": "vercel",
                 "repo": "swr-site",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1223,7 +1295,8 @@
                 "owner": "amiroff",
                 "repo": "NextBook",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1238,7 +1311,8 @@
                 "owner": "lalit2005",
                 "repo": "hyperdocs",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1253,7 +1327,8 @@
                 "owner": "lwz7512",
                 "repo": "next-smooth-doc",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1343,8 @@
                 "owner": "apvarun",
                 "repo": "productlog-nextjs-theme",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1359,8 @@
                 "owner": "ttttonyhe",
                 "repo": "odoc",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1305,7 +1382,8 @@
                 "owner": "timlrx",
                 "repo": "tailwind-nextjs-starter-blog",
                 "stars": 10548
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1320,7 +1398,8 @@
                 "owner": "ixartz",
                 "repo": "Next-js-Blog-Boilerplate",
                 "stars": 687
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1335,7 +1414,8 @@
                 "owner": "tscanlin",
                 "repo": "next-blog",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1350,7 +1430,8 @@
                 "owner": "lorenseanstewart",
                 "repo": "nextjs-mdx-blog-kit",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1365,7 +1446,8 @@
                 "owner": "wutali",
                 "repo": "nextjs-netlify-blog-template",
                 "stars": 471
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1380,7 +1462,8 @@
                 "owner": "ChangoMan",
                 "repo": "nextjs-mdx-blog",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1395,7 +1478,8 @@
                 "owner": "suevalov",
                 "repo": "next-blog-firestore",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1410,7 +1494,8 @@
                 "owner": "johnpolacek",
                 "repo": "nextjs-mdx-blog-starter",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1425,7 +1510,8 @@
                 "owner": "maxigimenez",
                 "repo": "next-medium-blog-boilerplate",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1440,7 +1526,8 @@
                 "owner": "tinialabs",
                 "repo": "next-starter-novela",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1462,7 +1549,8 @@
                 "owner": "jkytoela",
                 "repo": "next-startd",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1477,7 +1565,8 @@
                 "owner": "smakosh",
                 "repo": "next-portfolio-dev",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1492,7 +1581,8 @@
                 "owner": "imadatyatalah",
                 "repo": "nextjs-chakra-ui-portfolio-template",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1514,7 +1604,8 @@
                 "owner": "medusajs",
                 "repo": "nextjs-starter-medusa",
                 "stars": 2794
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1529,7 +1620,8 @@
                 "owner": "jamstack-cms",
                 "repo": "jamstack-ecommerce",
                 "stars": 1957
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1544,7 +1636,8 @@
                 "owner": "saleor",
                 "repo": "storefront",
                 "stars": 1594
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1559,7 +1652,8 @@
                 "owner": "chec",
                 "repo": "commercejs-nextjs-demo-store",
                 "stars": 1072
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1573,8 +1667,9 @@
                 "last_commit": "2026-08-25T19:13:20Z",
                 "owner": "notrab",
                 "repo": "headless-dropshipping-starter",
-                "stars": 846
-              }
+                "stars": 847
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1589,7 +1684,8 @@
                 "owner": "lucaspulliese",
                 "repo": "next-ecommerce",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1604,7 +1700,8 @@
                 "owner": "CrystallizeAPI",
                 "repo": "crystallize-nextjs-boilerplate",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1619,7 +1716,8 @@
                 "owner": "medusajs",
                 "repo": "medusa-starter-default",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1634,7 +1732,8 @@
                 "owner": "okbel",
                 "repo": "next-store",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1656,7 +1755,8 @@
                 "owner": "ndimatteo",
                 "repo": "HULL",
                 "stars": 1451
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1671,7 +1771,8 @@
                 "owner": "btahir",
                 "repo": "next-shopify-starter",
                 "stars": 904
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1685,8 +1786,9 @@
                 "last_commit": "2024-04-25T23:23:47Z",
                 "owner": "BuilderIO",
                 "repo": "nextjs-shopify",
-                "stars": 483
-              }
+                "stars": 484
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1701,7 +1803,8 @@
                 "owner": "basementstudio",
                 "repo": "next-shopify-ts",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1723,7 +1826,8 @@
                 "owner": "colbyfayock",
                 "repo": "next-wordpress-starter",
                 "stars": 1282
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1738,7 +1842,8 @@
                 "owner": "WebDevStudios",
                 "repo": "nextjs-wordpress-starter",
                 "stars": 732
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1760,7 +1865,8 @@
                 "owner": "chapter-three",
                 "repo": "next-drupal",
                 "stars": 711
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1775,7 +1881,8 @@
                 "owner": "shadcn",
                 "repo": "next-drupal-examples",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1797,7 +1904,8 @@
                 "owner": "tinacms",
                 "repo": "tina-cloud-starter",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1812,7 +1920,8 @@
                 "owner": "tinacms",
                 "repo": "next-blog-starter-graphql",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1834,7 +1943,8 @@
                 "owner": "hygraph",
                 "repo": "reference-marketing-website",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1856,7 +1966,8 @@
                 "owner": "transitive-bullshit",
                 "repo": "nextjs-notion-starter-kit",
                 "stars": 7029
-              }
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             },
             {
               "node_type": "item",
@@ -1870,8 +1981,9 @@
                 "last_commit": "2024-04-08T13:51:04Z",
                 "owner": "ijjk",
                 "repo": "notion-blog",
-                "stars": 3858
-              }
+                "stars": 3859
+              },
+              "first_seen": "2026-08-28T04:55:37.871Z"
             }
           ],
           "description": null,
@@ -1896,8 +2008,9 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8507
-          }
+            "stars": 8508
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1911,8 +2024,9 @@
             "last_commit": "2026-02-25T05:25:42Z",
             "owner": "pacocoursey",
             "repo": "next-themes",
-            "stars": 6333
-          }
+            "stars": 6334
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2041,8 @@
             "owner": "shadowwalker",
             "repo": "next-pwa",
             "stars": 4089
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2057,8 @@
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
             "stars": 3745
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2073,8 @@
             "owner": "hashicorp",
             "repo": "next-mdx-remote",
             "stars": 3073
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2089,8 @@
             "owner": "aralroca",
             "repo": "next-translate",
             "stars": 2736
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -1987,7 +2105,8 @@
             "owner": "cyrilwanner",
             "repo": "next-optimized-images",
             "stars": 2233
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2002,7 +2121,8 @@
             "owner": "kentcdodds",
             "repo": "mdx-bundler",
             "stars": 1903
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2017,7 +2137,8 @@
             "owner": "hanford",
             "repo": "next-offline",
             "stars": 1599
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2153,8 @@
             "owner": "andreipfeiffer",
             "repo": "css-in-js",
             "stars": 857
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2169,8 @@
             "owner": "apal21",
             "repo": "nextjs-progressbar",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2185,8 @@
             "owner": "andreizanik",
             "repo": "cookies-next",
             "stars": 767
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2077,7 +2201,8 @@
             "owner": "ricokahler",
             "repo": "next-data-hooks",
             "stars": 715
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2092,7 +2217,8 @@
             "owner": "next-page-tester",
             "repo": "next-page-tester",
             "stars": 616
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2107,7 +2233,8 @@
             "owner": "hashicorp",
             "repo": "next-mdx-enhanced",
             "stars": 500
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2122,7 +2249,8 @@
             "owner": "instantcommerce",
             "repo": "next-api-decorators",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2137,7 +2265,8 @@
             "owner": "pacocoursey",
             "repo": "next-unused",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2152,7 +2281,8 @@
             "owner": "domitriusclark",
             "repo": "mdnext",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2167,7 +2297,8 @@
             "owner": "PaulieScanlon",
             "repo": "mdx-embed",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2178,11 +2309,12 @@
             "archived": false,
             "id": 332989833,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:04:37Z",
+            "last_commit": "2026-08-27T22:06:08Z",
             "owner": "ricokahler",
             "repo": "next-plugin-preval",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2329,8 @@
             "owner": "neg4n",
             "repo": "next-api-og-image",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2345,8 @@
             "owner": "xeoneux",
             "repo": "next-dark-mode",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2361,8 @@
             "owner": "pablopunk",
             "repo": "nextjs-redirect",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2377,8 @@
             "owner": "Blazity",
             "repo": "next-image-proxy",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2393,8 @@
             "owner": "ivansevillaa",
             "repo": "use-next-blurhash",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2272,7 +2409,8 @@
             "owner": "remorses",
             "repo": "next-superjson",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2287,7 +2425,8 @@
             "owner": "Blazity",
             "repo": "nextjs-color-mode",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2302,7 +2441,8 @@
             "owner": "isaachinman",
             "repo": "next-i18next",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         }
       ],
       "title": "Nextjs Plugins"
@@ -2322,8 +2462,9 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44335
-          }
+            "stars": 44337
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2337,8 +2478,9 @@
             "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40598
-          }
+            "stars": 40599
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2353,7 +2495,8 @@
             "owner": "blitz-js",
             "repo": "blitz",
             "stars": 14129
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2368,7 +2511,8 @@
             "owner": "leerob",
             "repo": "next-mdx-blog",
             "stars": 7573
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2383,7 +2527,8 @@
             "owner": "Mayandev",
             "repo": "notion-avatar",
             "stars": 3219
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2398,7 +2543,8 @@
             "owner": "hauptrolle",
             "repo": "chakra-templates",
             "stars": 1530
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2413,7 +2559,8 @@
             "owner": "skillrecordings",
             "repo": "egghead-next",
             "stars": 1449
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2428,7 +2575,8 @@
             "owner": "AkashRajpurohit",
             "repo": "howtoprofessionallysay",
             "stars": 1281
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2443,7 +2591,8 @@
             "owner": "zaydek",
             "repo": "heroicons.dev",
             "stars": 1237
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2454,11 +2603,12 @@
             "archived": false,
             "id": 76222279,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:25:56Z",
+            "last_commit": "2026-08-27T12:24:40Z",
             "owner": "opencollective",
             "repo": "opencollective-frontend",
             "stars": 895
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2473,7 +2623,8 @@
             "owner": "MaximeHeckel",
             "repo": "blog.maximeheckel.com",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2488,7 +2639,8 @@
             "owner": "wirtzdan",
             "repo": "website",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2503,7 +2655,8 @@
             "owner": "chakra-ui",
             "repo": "chakra-ui-docs",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2518,7 +2671,8 @@
             "owner": "ghoshnirmalya",
             "repo": "nirmalyaghosh.com",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2533,7 +2687,8 @@
             "owner": "segunadebayo",
             "repo": "adebayosegun.com",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2548,7 +2703,8 @@
             "owner": "m1guelpf",
             "repo": "mirror-next",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2563,7 +2719,8 @@
             "owner": "contentlayerdev",
             "repo": "website",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2578,7 +2735,8 @@
             "owner": "planetscale",
             "repo": "docs",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2593,7 +2751,8 @@
             "owner": "100mslive",
             "repo": "100ms-docs",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2608,7 +2767,8 @@
             "owner": "wundergraph",
             "repo": "nextjs-typescript-postgresql-graphql-realtime-chat",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2623,7 +2783,8 @@
             "owner": "playwright-unofficial-community-archive",
             "repo": "playwright-community",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2638,7 +2799,8 @@
             "owner": "pablopunk",
             "repo": "vimcolors.org",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2653,7 +2815,8 @@
             "owner": "farhan2077",
             "repo": "symbols-search",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2668,7 +2831,8 @@
             "owner": "pablopunk",
             "repo": "pablopunk.com",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2683,7 +2847,8 @@
             "owner": "whatadewitt",
             "repo": "fantasy-docs-next",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2698,7 +2863,8 @@
             "owner": "InfinityBotList",
             "repo": "Documentation",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2713,7 +2879,8 @@
             "owner": "aravindballa",
             "repo": "website",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2728,7 +2895,8 @@
             "owner": "ivansevillaa",
             "repo": "oscarrier",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2743,7 +2911,8 @@
             "owner": "elmasse",
             "repo": "elmasse.io",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2758,7 +2927,8 @@
             "owner": "maxigimenez",
             "repo": "www",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         }
       ],
       "title": "Build with Nextjs"
@@ -2779,7 +2949,8 @@
             "owner": "smeijer",
             "repo": "next-runtime",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2794,7 +2965,8 @@
             "owner": "developit",
             "repo": "nextjs-preact-demo",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2809,7 +2981,8 @@
             "owner": "micheleriva",
             "repo": "krabs",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2824,7 +2997,8 @@
             "owner": "knowankit",
             "repo": "trello-clone",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2839,7 +3013,8 @@
             "owner": "timlrx",
             "repo": "pliny",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2854,7 +3029,8 @@
             "owner": "nikitowsky",
             "repo": "next-advanced-apollo-starter",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2869,7 +3045,8 @@
             "owner": "johnpolacek",
             "repo": "TweenPages",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2884,7 +3061,8 @@
             "owner": "colbyfayock",
             "repo": "next-leaflet-starter",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2899,7 +3077,8 @@
             "owner": "willemliu",
             "repo": "static-next",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2914,7 +3093,8 @@
             "owner": "leerob",
             "repo": "nextjs-prism-markdown",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2929,7 +3109,8 @@
             "owner": "treetips",
             "repo": "typescript-nextjs-redux-toolkit-material-ui-example",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2944,7 +3125,8 @@
             "owner": "ghoshnirmalya",
             "repo": "nextjs-hasura-trello-clone",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2959,7 +3141,8 @@
             "owner": "dabit3",
             "repo": "zora-nextjs-app",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2974,7 +3157,8 @@
             "owner": "joe-bell",
             "repo": "example-next-isr-with-swr",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -2989,7 +3173,8 @@
             "owner": "markdalgleish",
             "repo": "nextjs-vanilla-extract-example",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3004,7 +3189,8 @@
             "owner": "leerob",
             "repo": "next-prisma-starter",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3019,7 +3205,8 @@
             "owner": "ghoshnirmalya",
             "repo": "nextjs-authentication-using-strapi-and-next-auth",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3034,7 +3221,8 @@
             "owner": "ghoshnirmalya",
             "repo": "twitter-clone-using-nextjs-and-prisma",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3049,7 +3237,8 @@
             "owner": "platypusrex",
             "repo": "next-type-graphql",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3064,7 +3253,8 @@
             "owner": "jpedroschmitz",
             "repo": "volley",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         }
       ],
       "title": "Nextjs Projects"
@@ -3084,8 +3274,9 @@
             "last_commit": "2026-07-22T19:42:19Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28344
-          }
+            "stars": 28347
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3100,7 +3291,8 @@
             "owner": "serverless-nextjs",
             "repo": "serverless-next.js",
             "stars": 4459
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3115,7 +3307,8 @@
             "owner": "vvo",
             "repo": "iron-session",
             "stars": 4138
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3130,7 +3323,8 @@
             "owner": "kirill-konshin",
             "repo": "next-redux-wrapper",
             "stars": 2673
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3141,11 +3335,12 @@
             "archived": false,
             "id": 117610654,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:50:54Z",
+            "last_commit": "2026-08-27T13:07:37Z",
             "owner": "maticzav",
             "repo": "nookies",
             "stars": 2352
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3160,7 +3355,8 @@
             "owner": "hoangvvo",
             "repo": "next-connect",
             "stars": 1650
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3175,7 +3371,8 @@
             "owner": "wpengine",
             "repo": "faustjs",
             "stars": 1598
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3190,7 +3387,8 @@
             "owner": "dabit3",
             "repo": "polygon-ethereum-nextjs-marketplace",
             "stars": 1324
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3204,8 +3402,9 @@
             "last_commit": "2023-07-13T23:42:14Z",
             "owner": "reflexjs",
             "repo": "reflexjs",
-            "stars": 1016
-          }
+            "stars": 1015
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3220,7 +3419,8 @@
             "owner": "elmasse",
             "repo": "nextein",
             "stars": 887
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3235,7 +3435,8 @@
             "owner": "next-boost",
             "repo": "next-boost",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3250,7 +3451,8 @@
             "owner": "lfades",
             "repo": "next-with-apollo",
             "stars": 762
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3265,7 +3467,8 @@
             "owner": "hashicorp",
             "repo": "nextjs-bundle-analysis",
             "stars": 674
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3280,7 +3483,8 @@
             "owner": "ryanto",
             "repo": "next-s3-upload",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3295,7 +3499,8 @@
             "owner": "hoangvvo",
             "repo": "next-session",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3310,7 +3515,8 @@
             "owner": "G3root",
             "repo": "nextjs-dapp-starter-ts",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3325,7 +3531,8 @@
             "owner": "egoist",
             "repo": "mordred",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3340,7 +3547,8 @@
             "owner": "dabit3",
             "repo": "supabase-nextjs-auth",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3355,7 +3563,8 @@
             "owner": "souporserious",
             "repo": "next-remote-refresh",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3370,7 +3579,8 @@
             "owner": "basementstudio",
             "repo": "next-real-viewport",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3385,7 +3595,8 @@
             "owner": "ghoshnirmalya",
             "repo": "product-hunt-clone-using-nextjs-and-hasura",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3400,7 +3611,8 @@
             "owner": "dabit3",
             "repo": "nextjs-lit-token-gating",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3415,7 +3627,8 @@
             "owner": "neg4n",
             "repo": "next-api-compose",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3430,7 +3643,8 @@
             "owner": "neg4n",
             "repo": "next-hcaptcha",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         },
         {
           "node_type": "item",
@@ -3445,14 +3659,15 @@
             "owner": "garmeeh",
             "repo": "nextjs-prismic-blog-series",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T04:55:37.871Z"
         }
       ],
       "title": "miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:28.386Z",
+    "last_updated": "2026-08-28T04:55:37.871Z",
     "original_repository_info": {
       "archived": false,
       "id": 479639331,
