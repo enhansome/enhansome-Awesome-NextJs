@@ -21,7 +21,7 @@
                 "open_issues": 79,
                 "owner": "vercel",
                 "repo": "commerce",
-                "stars": 14250,
+                "stars": 14251,
                 "topics": [
                   "ecommerce",
                   "nextjs",
@@ -43,11 +43,11 @@
                 "id": 421008345,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:32:31Z",
+                "last_commit": "2026-09-09T20:58:18Z",
                 "open_issues": 274,
                 "owner": "vercel",
                 "repo": "examples",
-                "stars": 5155,
+                "stars": 5156,
                 "topics": [
                   "examples",
                   "nextjs",
@@ -79,7 +79,7 @@
                 "open_issues": 133,
                 "owner": "t3-oss",
                 "repo": "create-t3-app",
-                "stars": 29107,
+                "stars": 29108,
                 "topics": [
                   "cli",
                   "create-t3-app",
@@ -777,7 +777,7 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:16:34Z",
+                "last_commit": "2026-09-09T22:17:50Z",
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
@@ -823,7 +823,7 @@
                 "open_issues": 14,
                 "owner": "theodorusclarence",
                 "repo": "ts-nextjs-tailwind-starter",
-                "stars": 3416,
+                "stars": 3415,
                 "topics": [
                   "absolute-imports",
                   "boilerplate",
@@ -888,7 +888,7 @@
                 "id": 360124240,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T23:57:46Z",
+                "last_commit": "2026-09-09T19:58:38Z",
                 "open_issues": 12,
                 "owner": "jellydn",
                 "repo": "next-app-starter",
@@ -1688,7 +1688,7 @@
                 "open_issues": 218,
                 "owner": "shadcn-ui",
                 "repo": "taxonomy",
-                "stars": 19291,
+                "stars": 19292,
                 "topics": [
                   "nextauthjs",
                   "nextjs",
@@ -1717,7 +1717,7 @@
                 "open_issues": 342,
                 "owner": "shuding",
                 "repo": "nextra",
-                "stars": 13918,
+                "stars": 13919,
                 "topics": [
                   "markdown",
                   "mdx",
@@ -1787,7 +1787,7 @@
                 "open_issues": 5,
                 "owner": "NextJSTemplates",
                 "repo": "startup-nextjs",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "business",
                   "free",
@@ -1859,7 +1859,7 @@
                 "open_issues": 5,
                 "owner": "gmpetrov",
                 "repo": "ultimate-saas-ts",
-                "stars": 1278,
+                "stars": 1277,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:37.871Z"
@@ -2097,7 +2097,7 @@
                 "open_issues": 21,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1385,
+                "stars": 1386,
                 "topics": [
                   "analytics",
                   "backend",
@@ -2341,7 +2341,7 @@
                 "open_issues": 0,
                 "owner": "ixartz",
                 "repo": "Next-js-Blog-Boilerplate",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "boilerplate",
                   "boilerplate-front-end",
@@ -2626,7 +2626,7 @@
                 "open_issues": 0,
                 "owner": "smakosh",
                 "repo": "next-portfolio-dev",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "nextjs",
                   "portfolio",
@@ -2692,7 +2692,7 @@
                 "open_issues": 0,
                 "owner": "medusajs",
                 "repo": "nextjs-starter-medusa",
-                "stars": 2792,
+                "stars": 2791,
                 "topics": [
                   "cart",
                   "composable",
@@ -3386,7 +3386,7 @@
             "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8512,
+            "stars": 8513,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -3415,7 +3415,7 @@
             "open_issues": 68,
             "owner": "pacocoursey",
             "repo": "next-themes",
-            "stars": 6337,
+            "stars": 6339,
             "topics": [
               "dark-mode",
               "dark-theme",
@@ -3472,7 +3472,7 @@
             "open_issues": 8,
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3749,
+            "stars": 3750,
             "topics": [
               "next-sitemap",
               "nextjs",
@@ -3501,7 +3501,7 @@
             "open_issues": 66,
             "owner": "hashicorp",
             "repo": "next-mdx-remote",
-            "stars": 3073,
+            "stars": 3072,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:37.871Z"
@@ -3584,7 +3584,7 @@
             "open_issues": 76,
             "owner": "kentcdodds",
             "repo": "mdx-bundler",
-            "stars": 1903,
+            "stars": 1901,
             "topics": [
               "esbuild",
               "mdx",
@@ -3881,7 +3881,7 @@
             "id": 332989833,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T22:01:45Z",
+            "last_commit": "2026-09-09T21:40:53Z",
             "open_issues": 20,
             "owner": "ricokahler",
             "repo": "next-plugin-preval",
@@ -4011,7 +4011,7 @@
             "id": 465092890,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-07T22:51:24Z",
+            "last_commit": "2026-09-09T18:15:33Z",
             "open_issues": 14,
             "owner": "Blazity",
             "repo": "next-image-proxy",
@@ -4090,7 +4090,7 @@
             "id": 397581874,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-07T23:46:38Z",
+            "last_commit": "2026-09-09T18:11:54Z",
             "open_issues": 15,
             "owner": "Blazity",
             "repo": "nextjs-color-mode",
@@ -4150,7 +4150,7 @@
             "open_issues": 44,
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44381,
+            "stars": 44384,
             "topics": [
               "csv",
               "diagrams",
@@ -4177,7 +4177,7 @@
             "id": 202890778,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:36:19Z",
+            "last_commit": "2026-09-09T21:07:43Z",
             "open_issues": 16,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
@@ -4219,7 +4219,7 @@
             "open_issues": 86,
             "owner": "blitz-js",
             "repo": "blitz",
-            "stars": 14128,
+            "stars": 14129,
             "topics": [
               "blitz",
               "blitzjs",
@@ -4281,7 +4281,7 @@
             "open_issues": 0,
             "owner": "Mayandev",
             "repo": "notion-avatar",
-            "stars": 3219,
+            "stars": 3220,
             "topics": [
               "ai",
               "avatar",
@@ -4307,7 +4307,7 @@
             "open_issues": 0,
             "owner": "hauptrolle",
             "repo": "chakra-templates",
-            "stars": 1529,
+            "stars": 1528,
             "topics": [
               "chakra-templates",
               "chakra-ui",
@@ -4335,7 +4335,7 @@
             "open_issues": 25,
             "owner": "skillrecordings",
             "repo": "egghead-next",
-            "stars": 1449,
+            "stars": 1448,
             "topics": [
               "cypress",
               "egghead",
@@ -4414,7 +4414,7 @@
             "id": 76222279,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T10:55:06Z",
+            "last_commit": "2026-09-09T16:52:10Z",
             "open_issues": 94,
             "owner": "opencollective",
             "repo": "opencollective-frontend",
@@ -5167,7 +5167,7 @@
             "open_issues": 4,
             "owner": "colbyfayock",
             "repo": "next-leaflet-starter",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -5519,10 +5519,10 @@
             "language": "TypeScript",
             "license": "ISC",
             "last_commit": "2026-07-22T19:42:19Z",
-            "open_issues": 601,
+            "open_issues": 602,
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28366,
+            "stars": 28365,
             "topics": [
               "auth",
               "authentication",
@@ -5706,8 +5706,8 @@
             "id": 313420182,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T12:02:03Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-09T10:45:01Z",
+            "open_issues": 81,
             "owner": "wpengine",
             "repo": "faustjs",
             "stars": 1599,
@@ -5741,7 +5741,7 @@
             "open_issues": 42,
             "owner": "dabit3",
             "repo": "polygon-ethereum-nextjs-marketplace",
-            "stars": 1323,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:37.871Z"
@@ -6182,7 +6182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:00:49.641Z",
+    "last_updated": "2026-09-09T22:47:29.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to NextJs.",
