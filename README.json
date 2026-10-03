@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "commerce",
-              "description": "demo",
+              "description": "vercel/commerce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -34,7 +34,7 @@
             {
               "node_type": "item",
               "title": "vercel examples",
-              "description": "website",
+              "description": "vercel/examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -66,7 +66,7 @@
             {
               "node_type": "item",
               "title": "t3 app",
-              "description": "website",
+              "description": "t3-oss/create-t3-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,7 +79,7 @@
                 "open_issues": 133,
                 "owner": "t3-oss",
                 "repo": "create-t3-app",
-                "stars": 29147,
+                "stars": 29148,
                 "topics": [
                   "cli",
                   "create-t3-app",
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "typescript-nextjs-starter",
-              "description": "demo",
+              "description": "jpedroschmitz/typescript-nextjs-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
             {
               "node_type": "item",
               "title": "nextarter-chakra",
-              "description": "demo",
+              "description": "agustinusnathaniel/nextarter-chakra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -161,7 +161,7 @@
             {
               "node_type": "item",
               "title": "nextjs-starter",
-              "description": "demo",
+              "description": "pbteja1998/nextjs-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "nextjs-redux-starter",
-              "description": "demo",
+              "description": "CodementorIO/nextjs-redux-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "next-netlify-blog-starter",
-              "description": "demo",
+              "description": "cassidoo/next-netlify-blog-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
             {
               "node_type": "item",
               "title": "prisma-next-auth",
-              "description": null,
+              "description": "hexrcs/prisma-next-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "next-netlify-starter",
-              "description": "demo",
+              "description": "netlify-templates/next-netlify-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "wild-next",
-              "description": null,
+              "description": "madebywild/wild-next",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -358,7 +358,7 @@
             {
               "node_type": "item",
               "title": "Elastic's Next.js EUI Starter",
-              "description": "demo",
+              "description": "elastic/next-eui-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "muxt-ts",
-              "description": "demo",
+              "description": "HPouyanmehr/muxt-ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "nextjs-with-aos-example",
-              "description": "demo",
+              "description": "brunos3d/nextjs-with-aos-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "nextjs-with-locomotive-scroll-example",
-              "description": "demo",
+              "description": "brunos3d/nextjs-with-locomotive-scroll-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "next-sass-starter",
-              "description": "demo",
+              "description": "colbyfayock/next-sass-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "next-netlify-portfolio-starter",
-              "description": "demo",
+              "description": "cassidoo/next-netlify-portfolio-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "muxt",
-              "description": null,
+              "description": "HPouyanmehr/muxt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "next.js-tailwindcss-template",
-              "description": "demo",
+              "description": "imadatyatalah/next.js-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,7 +570,7 @@
             {
               "node_type": "item",
               "title": "nextjs-multiauthor-blog-starter",
-              "description": null,
+              "description": "domhabersack/nextjs-multiauthor-blog-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,7 +591,7 @@
             {
               "node_type": "item",
               "title": "next-project-starter",
-              "description": "demo",
+              "description": "johnpolacek/next-project-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
             {
               "node_type": "item",
               "title": "Next.js on Lambda via Serverless demo",
-              "description": "demo",
+              "description": "FormidableLabs/nextjs-serverless-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "next-cache-effective-pages",
-              "description": "demo",
+              "description": "bmstefanski/next-cache-effective-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +657,7 @@
             {
               "node_type": "item",
               "title": "react-next-starter",
-              "description": "demo",
+              "description": "KASTINpl/react-next-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "next-lotus-starter",
-              "description": "demo",
+              "description": "ayuhito/next-lotus-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -714,7 +714,7 @@
             {
               "node_type": "item",
               "title": "nextjs-12",
-              "description": "demo",
+              "description": "brunos3d/nextjs-12",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -768,7 +768,7 @@
             {
               "node_type": "item",
               "title": "Boilerplate and Starter",
-              "description": "demo",
+              "description": "ixartz/Next-js-Boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "ts-nextjs-tailwind-starter",
-              "description": "demo",
+              "description": "theodorusclarence/ts-nextjs-tailwind-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -850,7 +850,7 @@
             {
               "node_type": "item",
               "title": "Next.js Starter Tailwind",
-              "description": "demo",
+              "description": "taylorbryant/next-starter-tailwind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -879,7 +879,7 @@
             {
               "node_type": "item",
               "title": "next-app-starter",
-              "description": "demo",
+              "description": "jellydn/next-app-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -911,7 +911,7 @@
             {
               "node_type": "item",
               "title": "next-fullstack-starter",
-              "description": null,
+              "description": "egoist/next-fullstack-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -932,7 +932,7 @@
             {
               "node_type": "item",
               "title": "nextjs-advanced-starter",
-              "description": "demo",
+              "description": "agcty/nextjs-advanced-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -963,7 +963,7 @@
             {
               "node_type": "item",
               "title": "rescript-nextjs-template",
-              "description": "demo",
+              "description": "ryyppy/rescript-nextjs-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1012,7 +1012,7 @@
             {
               "node_type": "item",
               "title": "nextjs-starter",
-              "description": null,
+              "description": "planetscale/nextjs-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1040,7 +1040,7 @@
             {
               "node_type": "item",
               "title": "nextjs-strapi-boilerplate",
-              "description": "demo",
+              "description": "ghoshnirmalya/nextjs-strapi-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1074,7 +1074,7 @@
             {
               "node_type": "item",
               "title": "nextjs-hasura-boilerplate",
-              "description": "demo -",
+              "description": "ghoshnirmalya/nextjs-hasura-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1109,7 +1109,7 @@
             {
               "node_type": "item",
               "title": "tinacms-next-example",
-              "description": null,
+              "description": "tinacms/tinacms-next-example",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "with-nextjs-i18n-routing",
-              "description": "demo",
+              "description": "hygraph/hygraph-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
             {
               "node_type": "item",
               "title": "with-nextjs-image-loader",
-              "description": "demo",
+              "description": "hygraph/hygraph-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "with-nextjs-image",
-              "description": "demo",
+              "description": "hygraph/hygraph-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1236,7 +1236,7 @@
             {
               "node_type": "item",
               "title": "with-nextjs-mdx-remote",
-              "description": "demo",
+              "description": "hygraph/hygraph-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1269,7 +1269,7 @@
             {
               "node_type": "item",
               "title": "with-nextjs",
-              "description": "demo",
+              "description": "hygraph/hygraph-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1309,7 +1309,7 @@
             {
               "node_type": "item",
               "title": "next-contentful-starter",
-              "description": "demo",
+              "description": "cassidoo/next-contentful-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1330,7 +1330,7 @@
             {
               "node_type": "item",
               "title": "next-contentful-graphql",
-              "description": null,
+              "description": "basementstudio/next-contentful-graphql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1358,7 +1358,7 @@
             {
               "node_type": "item",
               "title": "nextjs-strapi-boilerplate",
-              "description": "demo",
+              "description": "ghoshnirmalya/nextjs-strapi-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1392,7 +1392,7 @@
             {
               "node_type": "item",
               "title": "nextjs-mongodb-app",
-              "description": "demo",
+              "description": "hoangvvo/nextjs-mongodb-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1427,7 +1427,7 @@
             {
               "node_type": "item",
               "title": "next-pwa-template",
-              "description": "demo",
+              "description": "mvllow/next-pwa-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1464,7 +1464,7 @@
             {
               "node_type": "item",
               "title": "next-web3-boilerplate",
-              "description": "demo",
+              "description": "mirshko/next-web3-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1498,7 +1498,7 @@
             {
               "node_type": "item",
               "title": "solidity-nextjs-starter",
-              "description": null,
+              "description": "tomhirst/solidity-nextjs-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1519,7 +1519,7 @@
             {
               "node_type": "item",
               "title": "web3-starter",
-              "description": null,
+              "description": "nickytonline/web3-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1556,7 +1556,7 @@
             {
               "node_type": "item",
               "title": "nextein-starter",
-              "description": "demo",
+              "description": "elmasse/nextein-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1583,7 +1583,7 @@
             {
               "node_type": "item",
               "title": "nextein-tailwind-starter",
-              "description": "demo",
+              "description": "elmasse/nextein-tailwind-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1608,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "nextein-i18n-starter",
-              "description": "demo",
+              "description": "elmasse/nextein-i18n-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1636,7 +1636,7 @@
             {
               "node_type": "item",
               "title": "next-auth-example",
-              "description": "demo",
+              "description": "nextauthjs/next-auth-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1675,7 +1675,7 @@
             {
               "node_type": "item",
               "title": "Taxonomy",
-              "description": "demo",
+              "description": "shadcn-ui/taxonomy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1704,7 +1704,7 @@
             {
               "node_type": "item",
               "title": "nextra",
-              "description": "demo",
+              "description": "shuding/nextra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1732,7 +1732,7 @@
             {
               "node_type": "item",
               "title": "next-saas-starter",
-              "description": "demo",
+              "description": "Blazity/next-saas-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1774,7 +1774,7 @@
             {
               "node_type": "item",
               "title": "Startup - Free Next.js Startup Website Template",
-              "description": "demo",
+              "description": "NextJSTemplates/startup-nextjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1814,7 +1814,7 @@
             {
               "node_type": "item",
               "title": "next-boilerplate",
-              "description": "demo",
+              "description": "pankod/next-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1846,7 +1846,7 @@
             {
               "node_type": "item",
               "title": "ultimate-saas-ts",
-              "description": "demo",
+              "description": "gmpetrov/ultimate-saas-ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1867,7 +1867,7 @@
             {
               "node_type": "item",
               "title": "react-next-boilerplate",
-              "description": "website",
+              "description": "react-next-boilerplate/react-next-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1908,7 +1908,7 @@
             {
               "node_type": "item",
               "title": "next-eui-starter",
-              "description": "demo",
+              "description": "elastic/next-eui-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1936,7 +1936,7 @@
             {
               "node_type": "item",
               "title": "theBag",
-              "description": "demo",
+              "description": "HPouyanmehr/theBag",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1957,7 +1957,7 @@
             {
               "node_type": "item",
               "title": "next-dev-studio",
-              "description": "demo",
+              "description": "lwz7512/next-dev-studio",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1990,7 +1990,7 @@
             {
               "node_type": "item",
               "title": "cna-chakra-ui-template",
-              "description": "demo",
+              "description": "imadatyatalah/cna-chakra-ui-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2021,7 +2021,7 @@
             {
               "node_type": "item",
               "title": "theme-nextjs-starter",
-              "description": "website",
+              "description": "prezly/theme-nextjs-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "rnb-site",
-              "description": "demo",
+              "description": "react-next-boilerplate/rnb-site",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2084,7 +2084,7 @@
             {
               "node_type": "item",
               "title": "nextacular",
-              "description": "demo",
+              "description": "nextacular/nextacular",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2125,7 +2125,7 @@
             {
               "node_type": "item",
               "title": "nextra-theme-docs",
-              "description": "demo",
+              "description": "vercel/swr-site",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2146,7 +2146,7 @@
             {
               "node_type": "item",
               "title": "NextBook",
-              "description": "demo",
+              "description": "amiroff/NextBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2178,7 +2178,7 @@
             {
               "node_type": "item",
               "title": "hyperdocs",
-              "description": "demo",
+              "description": "lalit2005/hyperdocs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2208,7 +2208,7 @@
             {
               "node_type": "item",
               "title": "next-smooth-doc",
-              "description": "demo",
+              "description": "lwz7512/next-smooth-doc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2237,7 +2237,7 @@
             {
               "node_type": "item",
               "title": "productlog-nextjs-theme",
-              "description": "demo",
+              "description": "apvarun/productlog-nextjs-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2263,7 +2263,7 @@
             {
               "node_type": "item",
               "title": "odoc",
-              "description": "demo",
+              "description": "ttttonyhe/odoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2299,7 +2299,7 @@
             {
               "node_type": "item",
               "title": "tailwind-nextjs-starter-blog",
-              "description": "demo",
+              "description": "timlrx/tailwind-nextjs-starter-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2328,7 +2328,7 @@
             {
               "node_type": "item",
               "title": "Next-js-Blog-Boilerplate",
-              "description": "demo",
+              "description": "ixartz/Next-js-Blog-Boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
             {
               "node_type": "item",
               "title": "next-blog",
-              "description": null,
+              "description": "tscanlin/next-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,7 +2390,7 @@
             {
               "node_type": "item",
               "title": "nextjs-mdx-blog-kit",
-              "description": "demo",
+              "description": "lorenseanstewart/nextjs-mdx-blog-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2411,7 +2411,7 @@
             {
               "node_type": "item",
               "title": "nextjs-netlify-blog-template",
-              "description": "demo",
+              "description": "wutali/nextjs-netlify-blog-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2438,7 +2438,7 @@
             {
               "node_type": "item",
               "title": "nextjs-typescript-mdx-blog",
-              "description": "demo",
+              "description": "ChangoMan/nextjs-mdx-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2464,7 +2464,7 @@
             {
               "node_type": "item",
               "title": "Next Blog Firestore",
-              "description": null,
+              "description": "suevalov/next-blog-firestore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2494,7 +2494,7 @@
             {
               "node_type": "item",
               "title": "nextjs-mdx-blog-starter",
-              "description": "demo",
+              "description": "johnpolacek/nextjs-mdx-blog-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2515,7 +2515,7 @@
             {
               "node_type": "item",
               "title": "Next.js Medium style boilerplate blog",
-              "description": "demo",
+              "description": "maxigimenez/next-medium-blog-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2550,7 +2550,7 @@
             {
               "node_type": "item",
               "title": "next-starter-novela",
-              "description": null,
+              "description": "tinialabs/next-starter-novela",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2584,7 +2584,7 @@
             {
               "node_type": "item",
               "title": "next-startd",
-              "description": "demo",
+              "description": "jkytoela/next-startd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2613,7 +2613,7 @@
             {
               "node_type": "item",
               "title": "next-portfolio-dev",
-              "description": "demo",
+              "description": "smakosh/next-portfolio-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2638,7 +2638,7 @@
             {
               "node_type": "item",
               "title": "nextjs-chakra-ui-portfolio-template",
-              "description": "demo",
+              "description": "imadatyatalah/nextjs-chakra-ui-portfolio-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2679,7 +2679,7 @@
             {
               "node_type": "item",
               "title": "nextjs-starter-medusa",
-              "description": "website",
+              "description": "medusajs/nextjs-starter-medusa",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2716,7 +2716,7 @@
             {
               "node_type": "item",
               "title": "Jamstack ECommerce Next",
-              "description": "demo",
+              "description": "jamstack-cms/jamstack-ecommerce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2746,7 +2746,7 @@
             {
               "node_type": "item",
               "title": "React Storefront",
-              "description": "demo",
+              "description": "saleor/storefront",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2787,7 +2787,7 @@
             {
               "node_type": "item",
               "title": "commercejs-nextjs-demo-store",
-              "description": "demo",
+              "description": "chec/commercejs-nextjs-demo-store",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2821,7 +2821,7 @@
             {
               "node_type": "item",
               "title": "headless-dropshipping-starter",
-              "description": "demo",
+              "description": "notrab/headless-dropshipping-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2849,7 +2849,7 @@
             {
               "node_type": "item",
               "title": "Next.js Ecommerce",
-              "description": "demo",
+              "description": "lucaspulliese/next-ecommerce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2878,7 +2878,7 @@
             {
               "node_type": "item",
               "title": "crystallize-nextjs-boilerplate",
-              "description": "demo",
+              "description": "CrystallizeAPI/crystallize-nextjs-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2908,7 +2908,7 @@
             {
               "node_type": "item",
               "title": "medusa-starter-default",
-              "description": "website",
+              "description": "medusajs/medusa-starter-default",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2929,7 +2929,7 @@
             {
               "node_type": "item",
               "title": "next-store",
-              "description": "demo",
+              "description": "okbel/next-store",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2957,7 +2957,7 @@
             {
               "node_type": "item",
               "title": "HULL",
-              "description": "demo",
+              "description": "ndimatteo/HULL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2992,7 +2992,7 @@
             {
               "node_type": "item",
               "title": "next-shopify-starter",
-              "description": "demo",
+              "description": "btahir/next-shopify-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3023,7 +3023,7 @@
             {
               "node_type": "item",
               "title": "nextjs-shopify",
-              "description": "demo",
+              "description": "BuilderIO/nextjs-shopify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3050,7 +3050,7 @@
             {
               "node_type": "item",
               "title": "next-shopify-ts",
-              "description": null,
+              "description": "basementstudio/next-shopify-ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3084,7 +3084,7 @@
             {
               "node_type": "item",
               "title": "next-wordpress-starter",
-              "description": "demo",
+              "description": "colbyfayock/next-wordpress-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3112,7 +3112,7 @@
             {
               "node_type": "item",
               "title": "nextjs-wordpress-starter",
-              "description": "demo",
+              "description": "WebDevStudios/nextjs-wordpress-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3188,7 +3188,7 @@
             {
               "node_type": "item",
               "title": "next-drupal-examples",
-              "description": null,
+              "description": "shadcn/next-drupal-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3216,7 +3216,7 @@
             {
               "node_type": "item",
               "title": "Tina Starter",
-              "description": "demo",
+              "description": "tinacms/tina-cloud-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3244,7 +3244,7 @@
             {
               "node_type": "item",
               "title": "next-blog-starter-graphql",
-              "description": "demo",
+              "description": "tinacms/next-blog-starter-graphql",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3307,7 +3307,7 @@
             {
               "node_type": "item",
               "title": "nextjs-notion-starter-kit",
-              "description": "demo",
+              "description": "transitive-bullshit/nextjs-notion-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3335,7 +3335,7 @@
             {
               "node_type": "item",
               "title": "notion-blog",
-              "description": "demo",
+              "description": "ijjk/notion-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3373,7 +3373,7 @@
         {
           "node_type": "item",
           "title": "next-seo",
-          "description": null,
+          "description": "garmeeh/next-seo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3402,7 +3402,7 @@
         {
           "node_type": "item",
           "title": "next-themes",
-          "description": "demo -",
+          "description": "pacocoursey/next-themes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3429,7 +3429,7 @@
         {
           "node_type": "item",
           "title": "next-pwa",
-          "description": null,
+          "description": "shadowwalker/next-pwa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3488,7 +3488,7 @@
         {
           "node_type": "item",
           "title": "next-mdx-remote",
-          "description": "++",
+          "description": "hashicorp/next-mdx-remote",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3509,7 +3509,7 @@
         {
           "node_type": "item",
           "title": "next-translate",
-          "description": null,
+          "description": "aralroca/next-translate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3544,7 +3544,7 @@
         {
           "node_type": "item",
           "title": "next-optimized-images",
-          "description": null,
+          "description": "cyrilwanner/next-optimized-images",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3571,7 +3571,7 @@
         {
           "node_type": "item",
           "title": "mdx-bundler",
-          "description": "++",
+          "description": "kentcdodds/mdx-bundler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3596,7 +3596,7 @@
         {
           "node_type": "item",
           "title": "Next-offline",
-          "description": null,
+          "description": "hanford/next-offline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3625,7 +3625,7 @@
         {
           "node_type": "item",
           "title": "css-in-js",
-          "description": null,
+          "description": "andreipfeiffer/css-in-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3674,7 +3674,7 @@
         {
           "node_type": "item",
           "title": "cookies-next",
-          "description": null,
+          "description": "andreizanik/cookies-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3745,7 +3745,7 @@
         {
           "node_type": "item",
           "title": "Next.js + MDX Enhanced",
-          "description": null,
+          "description": "hashicorp/next-mdx-enhanced",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3766,7 +3766,7 @@
         {
           "node_type": "item",
           "title": "next-api-decorators",
-          "description": "documentation",
+          "description": "instantcommerce/next-api-decorators",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3797,7 +3797,7 @@
         {
           "node_type": "item",
           "title": "next-unused",
-          "description": null,
+          "description": "pacocoursey/next-unused",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3818,7 +3818,7 @@
         {
           "node_type": "item",
           "title": "mdnext",
-          "description": null,
+          "description": "domitriusclark/mdnext",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3872,7 +3872,7 @@
         {
           "node_type": "item",
           "title": "next-plugin-preval",
-          "description": null,
+          "description": "ricokahler/next-plugin-preval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3898,7 +3898,7 @@
         {
           "node_type": "item",
           "title": "next-api-og-image",
-          "description": null,
+          "description": "neg4n/next-api-og-image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3938,7 +3938,7 @@
         {
           "node_type": "item",
           "title": "next-dark-mode",
-          "description": "demo",
+          "description": "xeoneux/next-dark-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3975,7 +3975,7 @@
         {
           "node_type": "item",
           "title": "nextjs-redirect",
-          "description": "website",
+          "description": "pablopunk/nextjs-redirect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4002,7 +4002,7 @@
         {
           "node_type": "item",
           "title": "next-image-proxy",
-          "description": "website",
+          "description": "Blazity/next-image-proxy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4057,7 +4057,7 @@
         {
           "node_type": "item",
           "title": "next-superjson",
-          "description": null,
+          "description": "remorses/next-superjson",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4081,7 +4081,7 @@
         {
           "node_type": "item",
           "title": "nextjs-color-mode",
-          "description": "demo",
+          "description": "Blazity/nextjs-color-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4110,7 +4110,7 @@
         {
           "node_type": "item",
           "title": "next-i18next",
-          "description": "website",
+          "description": "isaachinman/next-i18next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4137,7 +4137,7 @@
         {
           "node_type": "item",
           "title": "jsonvisio.com",
-          "description": "website",
+          "description": "AykutSarac/jsoncrack.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4150,7 +4150,7 @@
             "open_issues": 46,
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44468,
+            "stars": 44469,
             "topics": [
               "csv",
               "diagrams",
@@ -4168,7 +4168,7 @@
         {
           "node_type": "item",
           "title": "chakra-ui",
-          "description": "website",
+          "description": "chakra-ui/chakra-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4206,7 +4206,7 @@
         {
           "node_type": "item",
           "title": "blitz",
-          "description": "website",
+          "description": "blitz-js/blitz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4239,7 +4239,7 @@
         {
           "node_type": "item",
           "title": "leerob.io",
-          "description": "website",
+          "description": "leerob/next-mdx-blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4268,7 +4268,7 @@
         {
           "node_type": "item",
           "title": "notion-avatar",
-          "description": "website",
+          "description": "Mayandev/notion-avatar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4294,7 +4294,7 @@
         {
           "node_type": "item",
           "title": "chakra-templates",
-          "description": "website",
+          "description": "hauptrolle/chakra-templates",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4322,7 +4322,7 @@
         {
           "node_type": "item",
           "title": "egghead-next",
-          "description": "website",
+          "description": "skillrecordings/egghead-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4352,7 +4352,7 @@
         {
           "node_type": "item",
           "title": "howtoprofessionallysay",
-          "description": "website",
+          "description": "AkashRajpurohit/howtoprofessionallysay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4378,7 +4378,7 @@
         {
           "node_type": "item",
           "title": "heroicons",
-          "description": "website",
+          "description": "zaydek/heroicons.dev",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4405,7 +4405,7 @@
         {
           "node_type": "item",
           "title": "opencollective-frontend",
-          "description": "website",
+          "description": "opencollective/opencollective-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4414,8 +4414,8 @@
             "id": 76222279,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:50:53Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-03T02:26:56Z",
+            "open_issues": 53,
             "owner": "opencollective",
             "repo": "opencollective-frontend",
             "stars": 895,
@@ -4432,7 +4432,7 @@
         {
           "node_type": "item",
           "title": "blog.maximeheckel.com",
-          "description": "website",
+          "description": "MaximeHeckel/blog.maximeheckel.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4441,7 +4441,7 @@
             "id": 201582495,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:17:41Z",
+            "last_commit": "2026-10-03T01:09:46Z",
             "open_issues": 16,
             "owner": "MaximeHeckel",
             "repo": "blog.maximeheckel.com",
@@ -4453,7 +4453,7 @@
         {
           "node_type": "item",
           "title": "danielwirtz.com",
-          "description": "website",
+          "description": "wirtzdan/website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4486,7 +4486,7 @@
         {
           "node_type": "item",
           "title": "chakra-ui docs",
-          "description": null,
+          "description": "chakra-ui/chakra-ui-docs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4513,7 +4513,7 @@
         {
           "node_type": "item",
           "title": "nirmalyaghosh.com",
-          "description": "website",
+          "description": "ghoshnirmalya/nirmalyaghosh.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4545,7 +4545,7 @@
         {
           "node_type": "item",
           "title": "adebayosegun.com",
-          "description": "website",
+          "description": "segunadebayo/adebayosegun.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4575,7 +4575,7 @@
         {
           "node_type": "item",
           "title": "mirror-next",
-          "description": "website",
+          "description": "m1guelpf/mirror-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4603,7 +4603,7 @@
         {
           "node_type": "item",
           "title": "contentlayer.dev",
-          "description": "website",
+          "description": "contentlayerdev/website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4624,7 +4624,7 @@
         {
           "node_type": "item",
           "title": "planetscale docs",
-          "description": "website",
+          "description": "planetscale/docs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4652,7 +4652,7 @@
         {
           "node_type": "item",
           "title": "100ms Documentation",
-          "description": "website",
+          "description": "100mslive/100ms-docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4678,7 +4678,7 @@
         {
           "node_type": "item",
           "title": "nextjs-typescript-postgresql-graphql-realtime-chat",
-          "description": null,
+          "description": "wundergraph/nextjs-typescript-postgresql-graphql-realtime-chat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4707,7 +4707,7 @@
         {
           "node_type": "item",
           "title": "playwright-community",
-          "description": "website",
+          "description": "playwright-unofficial-community-archive/playwright-community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4736,7 +4736,7 @@
         {
           "node_type": "item",
           "title": "vimcolors.org",
-          "description": "website",
+          "description": "pablopunk/vimcolors.org",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4757,7 +4757,7 @@
         {
           "node_type": "item",
           "title": "symbols-search",
-          "description": "website",
+          "description": "farhan2077/symbols-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4783,7 +4783,7 @@
         {
           "node_type": "item",
           "title": "pablopunk.com",
-          "description": "website",
+          "description": "pablopunk/pablopunk.com",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4819,7 +4819,7 @@
         {
           "node_type": "item",
           "title": "fantasy-docs-next",
-          "description": "website",
+          "description": "whatadewitt/fantasy-docs-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4844,7 +4844,7 @@
         {
           "node_type": "item",
           "title": "aravindballa website",
-          "description": "website",
+          "description": "aravindballa/website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4868,7 +4868,7 @@
         {
           "node_type": "item",
           "title": "nfinity Bot List docs",
-          "description": "website",
+          "description": "InfinityBotList/Documentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4897,7 +4897,7 @@
         {
           "node_type": "item",
           "title": "oscarrier",
-          "description": "website",
+          "description": "ivansevillaa/oscarrier",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4918,7 +4918,7 @@
         {
           "node_type": "item",
           "title": "elmasse.io",
-          "description": "website",
+          "description": "elmasse/elmasse.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4939,7 +4939,7 @@
         {
           "node_type": "item",
           "title": "maxigimenez",
-          "description": "website",
+          "description": "maxigimenez/www",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4966,7 +4966,7 @@
         {
           "node_type": "item",
           "title": "next-runtime",
-          "description": "documentation",
+          "description": "smeijer/next-runtime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4991,7 +4991,7 @@
         {
           "node_type": "item",
           "title": "nextjs-preact-demo",
-          "description": "website",
+          "description": "developit/nextjs-preact-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5012,7 +5012,7 @@
         {
           "node_type": "item",
           "title": "krabs",
-          "description": null,
+          "description": "micheleriva/krabs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5048,7 +5048,7 @@
         {
           "node_type": "item",
           "title": "trello-clone",
-          "description": "website",
+          "description": "knowankit/trello-clone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5076,7 +5076,7 @@
         {
           "node_type": "item",
           "title": "pliny",
-          "description": null,
+          "description": "timlrx/pliny",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5097,7 +5097,7 @@
         {
           "node_type": "item",
           "title": "next-advanced-apollo-starter",
-          "description": null,
+          "description": "nikitowsky/next-advanced-apollo-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5133,7 +5133,7 @@
         {
           "node_type": "item",
           "title": "TweenPages",
-          "description": "demo",
+          "description": "johnpolacek/TweenPages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5154,7 +5154,7 @@
         {
           "node_type": "item",
           "title": "Next.js Leaflet Starter",
-          "description": "demo",
+          "description": "colbyfayock/next-leaflet-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5184,7 +5184,7 @@
         {
           "node_type": "item",
           "title": "static-next",
-          "description": "demo",
+          "description": "willemliu/static-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5223,7 +5223,7 @@
         {
           "node_type": "item",
           "title": "nextjs-prism-markdown",
-          "description": "demo",
+          "description": "leerob/nextjs-prism-markdown",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5250,7 +5250,7 @@
         {
           "node_type": "item",
           "title": "typescript-nextjs-redux-toolkit-material-ui-example",
-          "description": "demo",
+          "description": "treetips/typescript-nextjs-redux-toolkit-material-ui-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5281,7 +5281,7 @@
         {
           "node_type": "item",
           "title": "nextjs-hasura-trello-clone",
-          "description": "demo",
+          "description": "ghoshnirmalya/nextjs-hasura-trello-clone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5308,7 +5308,7 @@
         {
           "node_type": "item",
           "title": "zora-nextjs-app",
-          "description": null,
+          "description": "dabit3/zora-nextjs-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5329,7 +5329,7 @@
         {
           "node_type": "item",
           "title": "example-next-isr-with-swr",
-          "description": "demo",
+          "description": "joe-bell/example-next-isr-with-swr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5355,7 +5355,7 @@
         {
           "node_type": "item",
           "title": "nextjs-vanilla-extract-example",
-          "description": null,
+          "description": "markdalgleish/nextjs-vanilla-extract-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5376,7 +5376,7 @@
         {
           "node_type": "item",
           "title": "next-prisma-starter",
-          "description": "demo",
+          "description": "leerob/next-prisma-starter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5402,7 +5402,7 @@
         {
           "node_type": "item",
           "title": "nextjs-authentication-using-strapi-and-next-auth",
-          "description": null,
+          "description": "ghoshnirmalya/nextjs-authentication-using-strapi-and-next-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5429,7 +5429,7 @@
         {
           "node_type": "item",
           "title": "twitter-clone-using-nextjs-and-prisma",
-          "description": "demo",
+          "description": "ghoshnirmalya/twitter-clone-using-nextjs-and-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5456,7 +5456,7 @@
         {
           "node_type": "item",
           "title": "next-type-graphql",
-          "description": null,
+          "description": "platypusrex/next-type-graphql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5477,7 +5477,7 @@
         {
           "node_type": "item",
           "title": "Volleyball scoreboard application",
-          "description": null,
+          "description": "jpedroschmitz/volley",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5509,7 +5509,7 @@
         {
           "node_type": "item",
           "title": "next-auth",
-          "description": "website",
+          "description": "nextauthjs/next-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5549,7 +5549,7 @@
         {
           "node_type": "item",
           "title": "Serverless Next.js Component",
-          "description": null,
+          "description": "serverless-nextjs/serverless-next.js",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5582,7 +5582,7 @@
         {
           "node_type": "item",
           "title": "iron-session",
-          "description": "documentation",
+          "description": "vvo/iron-session",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5612,7 +5612,7 @@
         {
           "node_type": "item",
           "title": "next-redux-wrapper",
-          "description": null,
+          "description": "kirill-konshin/next-redux-wrapper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5641,7 +5641,7 @@
         {
           "node_type": "item",
           "title": "nookies",
-          "description": null,
+          "description": "maticzav/nookies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5668,7 +5668,7 @@
         {
           "node_type": "item",
           "title": "next-connect",
-          "description": null,
+          "description": "hoangvvo/next-connect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5728,7 +5728,7 @@
         {
           "node_type": "item",
           "title": "polygon-ethereum-nextjs-marketplace",
-          "description": null,
+          "description": "dabit3/polygon-ethereum-nextjs-marketplace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5749,7 +5749,7 @@
         {
           "node_type": "item",
           "title": "reflexjs",
-          "description": "website",
+          "description": "reflexjs/reflexjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5781,7 +5781,7 @@
         {
           "node_type": "item",
           "title": "nextein",
-          "description": "website",
+          "description": "elmasse/nextein",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5809,7 +5809,7 @@
         {
           "node_type": "item",
           "title": "next-boost",
-          "description": null,
+          "description": "next-boost/next-boost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5836,7 +5836,7 @@
         {
           "node_type": "item",
           "title": "next-with-apollo",
-          "description": null,
+          "description": "lfades/next-with-apollo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5857,7 +5857,7 @@
         {
           "node_type": "item",
           "title": "nextjs-bundle-analysis",
-          "description": null,
+          "description": "hashicorp/nextjs-bundle-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5878,7 +5878,7 @@
         {
           "node_type": "item",
           "title": "next-s3-upload",
-          "description": "documentation",
+          "description": "ryanto/next-s3-upload",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5902,7 +5902,7 @@
         {
           "node_type": "item",
           "title": "next-session",
-          "description": null,
+          "description": "hoangvvo/next-session",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5929,7 +5929,7 @@
         {
           "node_type": "item",
           "title": "nextjs-dapp-starter-ts",
-          "description": null,
+          "description": "G3root/nextjs-dapp-starter-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5962,7 +5962,7 @@
         {
           "node_type": "item",
           "title": "mordred",
-          "description": null,
+          "description": "egoist/mordred",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5991,7 +5991,7 @@
         {
           "node_type": "item",
           "title": "supabase-nextjs-auth",
-          "description": null,
+          "description": "dabit3/supabase-nextjs-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6033,7 +6033,7 @@
         {
           "node_type": "item",
           "title": "next-real-viewport",
-          "description": null,
+          "description": "basementstudio/next-real-viewport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6075,7 +6075,7 @@
         {
           "node_type": "item",
           "title": "nextjs-lit-token-gating",
-          "description": null,
+          "description": "dabit3/nextjs-lit-token-gating",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6096,7 +6096,7 @@
         {
           "node_type": "item",
           "title": "next-api-compose",
-          "description": null,
+          "description": "neg4n/next-api-compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6130,7 +6130,7 @@
         {
           "node_type": "item",
           "title": "next-hcaptcha",
-          "description": null,
+          "description": "neg4n/next-hcaptcha",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6159,7 +6159,7 @@
         {
           "node_type": "item",
           "title": "Next.js and Prismic.io Blog Series",
-          "description": null,
+          "description": "garmeeh/nextjs-prismic-blog-series",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6182,7 +6182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:35.048Z",
+    "last_updated": "2026-10-03T04:26:24.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to NextJs.",

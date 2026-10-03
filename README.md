@@ -20,7 +20,7 @@
 
 #### starter
 
-* [t3 app](https://github.com/t3-oss/create-t3-app) ⭐ 29,147 | 🐛 133 | 🌐 TypeScript | 📅 2025-12-13 - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
+* [t3 app](https://github.com/t3-oss/create-t3-app) ⭐ 29,148 | 🐛 133 | 🌐 TypeScript | 📅 2025-12-13 - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
 * [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) ⭐ 1,431 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-02 - [demo](https://next-ts.joaopedro.dev/)
 * [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) ⭐ 840 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 - [demo](https://nextarter-chakra.sznm.dev/)
 * [nextjs-starter](https://github.com/pbteja1998/nextjs-starter) ⭐ 452 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-01 - [demo](https://next-starter.bhanuteja.dev/) `A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + Husky`
@@ -256,7 +256,7 @@
 
 ## Build with Nextjs
 
-* [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,468 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-14 - [website](https://jsonvisio.com/)
+* [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,469 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-14 - [website](https://jsonvisio.com/)
 * [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,674 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-24 - [website](https://chakra-ui.com/)
 * [blitz](https://github.com/blitz-js/blitz) ⭐ 14,126 | 🐛 90 | 🌐 TypeScript | 📅 2025-11-21 - [website](https://blitzjs.com/)
 * [leerob.io](https://github.com/leerob/leerob.io) ⭐ 7,569 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - [website](https://leerob.io/)
@@ -265,8 +265,8 @@
 * [egghead-next](https://github.com/eggheadio/egghead-next) ⭐ 1,450 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-04 - [website](https://egghead.io/)
 * [howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) ⭐ 1,279 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-05 - [website](https://howtoprofessionallysay.akashrajpurohit.com/)
 * [heroicons](https://github.com/zaydek/heroicons.dev) ⭐ 1,235 | 🐛 4 | 🌐 TypeScript | 📅 2023-12-19 - [website](https://heroicons.dev/)
-* [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) ⭐ 895 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-02 - [website](https://opencollective.com/)
-* [blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) ⭐ 741 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02 - [website](https://blog.maximeheckel.com/)
+* [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) ⭐ 895 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-03 - [website](https://opencollective.com/)
+* [blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) ⭐ 741 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-03 - [website](https://blog.maximeheckel.com/)
 * [danielwirtz.com](https://github.com/wirtzdan/website) ⭐ 546 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-02 - [website](https://danielwirtz.com/)
 * [chakra-ui docs](https://github.com/chakra-ui/chakra-ui-docs) ⚠️ Archived
 * [nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) ⭐ 294 | 🐛 1 | 🌐 MDX | 📅 2026-01-31 - [website](https://nirmalyaghosh.com/)
