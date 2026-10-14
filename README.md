@@ -15,14 +15,14 @@
 
 #### official
 
-* [commerce](https://github.com/vercel/commerce) ⭐ 14,301 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-06 - [demo](https://demo.vercel.store/)
+* [commerce](https://github.com/vercel/commerce) ⭐ 14,304 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-06 - [demo](https://demo.vercel.store/)
 * [vercel examples](https://github.com/vercel/examples) ⭐ 5,158 | 🐛 280 | 🌐 TypeScript | 📅 2026-10-09 - [website](https://examples.vercel.live/)
 
 #### starter
 
-* [t3 app](https://github.com/t3-oss/create-t3-app) ⭐ 29,162 | 🐛 132 | 🌐 TypeScript | 📅 2025-12-13 - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
-* [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) ⭐ 1,431 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://next-ts.joaopedro.dev/)
-* [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) ⭐ 840 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 - [demo](https://nextarter-chakra.sznm.dev/)
+* [t3 app](https://github.com/t3-oss/create-t3-app) ⭐ 29,160 | 🐛 132 | 🌐 TypeScript | 📅 2025-12-13 - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
+* [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) ⭐ 1,430 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-14 - [demo](https://next-ts.joaopedro.dev/)
+* [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) ⭐ 839 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 - [demo](https://nextarter-chakra.sznm.dev/)
 * [nextjs-starter](https://github.com/pbteja1998/nextjs-starter) ⭐ 452 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-01 - [demo](https://next-starter.bhanuteja.dev/) `A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + Husky`
 * [nextjs-redux-starter](https://github.com/CodementorIO/nextjs-redux-starter) ⭐ 374 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-10 - [demo](https://nextjs-redux-starter.vercel.app/)
 * [next-netlify-blog-starter](https://github.com/cassidoo/next-netlify-blog-starter) ⭐ 200 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-06 - [demo](https://next-netlify-blog-starter.netlify.app/)
@@ -42,7 +42,7 @@
 * [next-project-starter](https://github.com/johnpolacek/next-project-starter) ⭐ 17 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-07 - [demo](https://project-starter.vercel.app/)
 * [Next.js on Lambda via Serverless demo](https://github.com/FormidableLabs/nextjs-serverless-demo) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2025-09-03 - [demo](https://nextjs-sls-sandbox.formidable.dev/blog)
 * [next-cache-effective-pages](https://github.com/bmstefanski/next-cache-effective-pages) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2021-08-11 - [demo](https://next-cache-effective-pages.vercel.app/test.txt?userId=42)
-* [react-next-starter](https://github.com/KASTINpl/react-next-starter) ⭐ 8 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://react-next-starter.vercel.app/)
+* [react-next-starter](https://github.com/KASTINpl/react-next-starter) ⭐ 8 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 - [demo](https://react-next-starter.vercel.app/)
 * [next-lotus-starter](https://github.com/ayuhito/next-lotus-starter) ⚠️ Archived - [demo](https://next-lotus-starter.vercel.app/)
 * [nextjs-12](https://github.com/BrunoS3D/nextjs-12) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-26 - [demo](https://12nextjs.vercel.app/)
 * [use-next-blurhash-hook-example](https://github.com/BrunoS3D/use-next-blurhash-hook-example) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-07 - [demo](https://use-next-blurhash.vercel.app/) ++
@@ -50,7 +50,7 @@
 
 #### starter + tailwind
 
-* [Boilerplate and Starter](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,084 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - [demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/)
+* [Boilerplate and Starter](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,083 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - [demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/)
 * [ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) ⭐ 3,410 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-07 - [demo](https://tsnext-tw.thcl.dev/)
 * [Next.js Starter Tailwind](https://github.com/taylorbryant/next-starter-tailwind) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-27 - [demo](https://next-starter-tailwind.taylorbryant.dev/)
 * [next-app-starter](https://github.com/jellydn/next-app-starter) ⭐ 282 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://next-app-starter.vercel.app/)
@@ -102,7 +102,7 @@
 
 #### starter + PWA
 
-* [next-pwa-template](https://github.com/mvllow/next-pwa-template) ⭐ 561 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-24 - [demo](https://next-pwa-template.vercel.app/)
+* [next-pwa-template](https://github.com/mvllow/next-pwa-template) ⭐ 562 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-24 - [demo](https://next-pwa-template.vercel.app/)
 * [nextjs-pwa](https://github.com/rsipakov/nextjs-pwa) - [demo](https://nextjs-pwa-xi.vercel.app/)
 
 #### starter + web3
@@ -119,15 +119,15 @@
 
 #### starter + NextAuth.js
 
-* [next-auth-example](https://github.com/nextauthjs/next-auth-example) ⭐ 4,030 | 🐛 11 | 🌐 TypeScript | 📅 2025-09-26 - [demo](https://next-auth-example.vercel.app/)
+* [next-auth-example](https://github.com/nextauthjs/next-auth-example) ⭐ 4,029 | 🐛 11 | 🌐 TypeScript | 📅 2025-09-26 - [demo](https://next-auth-example.vercel.app/)
 
 ## Nextjs Templates
 
 #### templates
 
 * [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,281 | 🐛 218 | 🌐 TypeScript | 📅 2026-04-20 - [demo](https://tx.shadcn.com/)
-* [nextra](https://github.com/shuding/nextra) ⭐ 13,936 | 🐛 327 | 🌐 TypeScript | 📅 2026-07-31 - [demo](https://nextra.vercel.app/)
-* [next-saas-starter](https://github.com/Blazity/next-saas-starter) ⭐ 1,698 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://next-saas-starter-ashy.vercel.app/)
+* [nextra](https://github.com/shuding/nextra) ⭐ 13,937 | 🐛 326 | 🌐 TypeScript | 📅 2026-07-31 - [demo](https://nextra.vercel.app/)
+* [next-saas-starter](https://github.com/Blazity/next-saas-starter) ⭐ 1,699 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://next-saas-starter-ashy.vercel.app/)
 * [Startup - Free Next.js Startup Website Template](https://github.com/NextJSTemplates/startup-nextjs) ⭐ 1,684 | 🐛 5 | 🌐 TypeScript | 📅 2025-12-12 - [demo](https://startup.nextjstemplates.com/)
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) ⭐ 1,611 | 🐛 38 | 🌐 TypeScript | 📅 2023-08-04 - [demo](https://pankod.github.io/next-boilerplate/)
 * [ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) ⭐ 1,277 | 🐛 5 | 🌐 TypeScript | 📅 2022-11-21 -[demo](https://utlimate-saas-js.vercel.app/)
@@ -143,7 +143,7 @@
 #### docs templates
 
 * [nextacular](https://github.com/nextacular/nextacular) ⭐ 1,390 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - [demo](https://demo.nextacular.co/)
-* [nextra-theme-docs](https://github.com/vercel/swr-site) ⭐ 511 | 🐛 122 | 🌐 MDX | 📅 2026-10-13 - [demo](https://swr.vercel.app/)
+* [nextra-theme-docs](https://github.com/vercel/swr-site) ⭐ 511 | 🐛 122 | 🌐 MDX | 📅 2026-10-14 - [demo](https://swr.vercel.app/)
 * [NextBook](https://github.com/amiroff/NextBook) ⭐ 242 | 🐛 13 | 🌐 JavaScript | 📅 2024-08-07 - [demo](https://next-book.vercel.app/)
 * [hyperdocs](https://github.com/Lalit2005/hyperdocs) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-01-14 - [demo](https://hyperdocs.netlify.app/hashnode/docs)
 * [next-smooth-doc](https://github.com/lwz7512/next-smooth-doc) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-08 - [demo](https://next-smooth-doc.vercel.app/)
@@ -152,7 +152,7 @@
 
 #### Blog Templates
 
-* [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) ⭐ 10,560 | 🐛 85 | 🌐 TypeScript | 📅 2026-02-08 - [demo](https://tailwind-nextjs-starter-blog.vercel.app/) `tailwindCSS`
+* [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) ⭐ 10,561 | 🐛 85 | 🌐 TypeScript | 📅 2026-02-08 - [demo](https://tailwind-nextjs-starter-blog.vercel.app/) `tailwindCSS`
 * [Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) ⭐ 688 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-31 - [demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 * [next-blog](https://github.com/tscanlin/next-blog) ⭐ 556 | 🐛 1 | 🌐 JavaScript | 📅 2022-12-22 - `Markdown based blog using next.js, supporting static export`
 * [nextjs-mdx-blog-kit](https://github.com/lorenseanstewart/nextjs-mdx-blog-kit) ⭐ 475 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-05 - [demo](https://nextjs-mdx-blog-kit.com/)
@@ -175,9 +175,9 @@
 
 * [nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) ⚠️ Archived - [website](https://medusajs.com/)
 * [Jamstack ECommerce Next](https://github.com/jamstack-cms/jamstack-ecommerce) ⭐ 1,960 | 🐛 25 | 🌐 JavaScript | 📅 2023-01-06 - [demo](https://www.jamstackecommerce.dev/)
-* [React Storefront](https://github.com/saleor/react-storefront) ⭐ 1,626 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-12 - [demo](https://reactstorefront.vercel.app/) `saleor checkout`
+* [React Storefront](https://github.com/saleor/react-storefront) ⭐ 1,626 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-14 - [demo](https://reactstorefront.vercel.app/) `saleor checkout`
 * [commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) ⚠️ Archived - [demo](https://commercejs-demo-store.netlify.app/)
-* [headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) ⭐ 859 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://demo.headlessdropshipping.com/)
+* [headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) ⭐ 859 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-14 - [demo](https://demo.headlessdropshipping.com/)
 * [Next.js Ecommerce](https://github.com/lucaspulliese/next-ecommerce) ⭐ 777 | 🐛 11 | 🌐 TypeScript | 📅 2024-12-17 - [demo](https://next-ecommerce-front.vercel.app/)
 * [crystallize-nextjs-boilerplate](https://github.com/CrystallizeAPI/crystallize-nextjs-boilerplate) ⭐ 336 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-25 - [demo](https://furniture.superfast.shop/)
 * [medusa-starter-default](https://github.com/medusajs/medusa-starter-default) ⭐ 210 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-29 - [website](https://medusajs.com/)
@@ -224,49 +224,49 @@
 
 ## Nextjs Plugins
 
-* [next-seo](https://github.com/garmeeh/next-seo) ⭐ 8,524 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-29 - `Next SEO is a plug in that makes managing your SEO easier in Next.js projects.`
+* [next-seo](https://github.com/garmeeh/next-seo) ⭐ 8,525 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-29 - `Next SEO is a plug in that makes managing your SEO easier in Next.js projects.`
 * [next-themes](https://github.com/pacocoursey/next-themes) ⭐ 6,335 | 🐛 68 | 🌐 TypeScript | 📅 2026-02-25 - [demo](https://next-themes-example.vercel.app/) - `Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing`
 * [next-pwa](https://github.com/shadowwalker/next-pwa) ⭐ 4,085 | 🐛 138 | 🌐 JavaScript | 📅 2024-07-27 - `Zero config PWA plugin for Next.js, with workbox `
-* [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) ⭐ 3,744 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-13 - [how to](https://www.iamvishnusankar.com/blogs/how-to-generate-sitemap-for-nextjs-projects/) `Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.`
+* [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) ⭐ 3,745 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-13 - [how to](https://www.iamvishnusankar.com/blogs/how-to-generate-sitemap-for-nextjs-projects/) `Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.`
 * [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) ⚠️ Archived - `Load mdx content from anywhere through getStaticProps in next.js` ++
 * [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,734 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - `Next.js plugin + i18n API for Next.js earth_africa - Load page translations and use them in an easy way!`
 * [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) ⭐ 2,235 | 🐛 130 | 🌐 JavaScript | 📅 2023-01-04
-* [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) ⭐ 1,900 | 🐛 76 | 🌐 JavaScript | 📅 2026-05-13 - `Compile and bundle your MDX files and their dependencies. FAST.` ++
+* [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) ⭐ 1,899 | 🐛 76 | 🌐 JavaScript | 📅 2026-05-13 - `Compile and bundle your MDX files and their dependencies. FAST.` ++
 * [Next-offline](https://github.com/hanford/next-offline) ⭐ 1,597 | 🐛 58 | 🌐 JavaScript | 📅 2023-01-03
 * [css-in-js](https://github.com/andreipfeiffer/css-in-js) ⭐ 856 | 🐛 4 | 🌐 TypeScript | 📅 2022-10-26 `A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js`
 * [nextjs-progressbar](https://github.com/apal21/nextjs-progressbar) ⭐ 788 | 🐛 12 | 🌐 TypeScript | 📅 2024-03-18 - [demo](https://demo-nextjs-progressbar.vercel.app/) - [documentatios](https://gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/) ++
 * [cookies-next](https://github.com/andreizanik/cookies-next) ⭐ 766 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-20 `Getting, setting and removing cookies on both client and server with next.js `
-* [next-data-hooks](https://github.com/ricokahler/next-data-hooks) ⭐ 714 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 - [example](https://github.com/ricokahler/next-data-hooks/tree/main/examples/next-data-hooks-example) ⭐ 714 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 `Use `getStaticProps`/`getServerSideProps` as react-hooks`
+* [next-data-hooks](https://github.com/ricokahler/next-data-hooks) ⭐ 714 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 - [example](https://github.com/ricokahler/next-data-hooks/tree/main/examples/next-data-hooks-example) ⭐ 714 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 `Use `getStaticProps`/`getServerSideProps` as react-hooks`
 * [next-page-tester](https://github.com/next-page-tester/next-page-tester) ⭐ 616 | 🐛 18 | 🌐 TypeScript | 📅 2022-07-03 - [example](https://github.com/next-page-tester/next-page-tester/tree/master/examples) ⭐ 616 | 🐛 18 | 🌐 TypeScript | 📅 2022-07-03
 * [Next.js + MDX Enhanced](https://github.com/hashicorp/next-mdx-enhanced) ⚠️ Archived
 * [next-api-decorators](https://github.com/storyofams/next-api-decorators) ⭐ 429 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-05 - [documentation](https://next-api-decorators.vercel.app/)
 * [next-unused](https://github.com/pacocoursey/next-unused) ⚠️ Archived - `Find unused files in your Next.js projects`
 * [mdnext](https://github.com/domitriusclark/mdnext) ⭐ 322 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-07 `The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.`
 * [mdx-embed](https://github.com/PaulieScanlon/mdx-embed) ⭐ 294 | 🐛 23 | 🌐 TypeScript | 📅 2024-08-08 - `Embed 3rd party media content in MDX - no import required` ++ - [documentation](https://www.mdx-embed.com/)
-* [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) ⭐ 253 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-13 `Pre-evaluate async functions during builds and import them like JSON`
+* [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) ⭐ 253 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-14 `Pre-evaluate async functions during builds and import them like JSON`
 * [next-api-og-image](https://github.com/neg4n/next-api-og-image) ⭐ 221 | 🐛 8 | 🌐 TypeScript | 📅 2022-09-24 - ` Easy way to generate open-graph images dynamically in HTML or React using Next.js API Routes. Suitable for serverless environment.`
 * [next-dark-mode](https://github.com/xeoneux/next-dark-mode) ⭐ 217 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-08 - [demo](https://next-dark-mode.vercel.app/)
 * [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect) ⭐ 143 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-05 - [website](https://pablopunk.github.io/nextjs-redirect/)
-* [next-image-proxy](https://github.com/Blazity/next-image-proxy) ⭐ 79 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-13 - [website](https://next-image-proxy.vercel.app/)
+* [next-image-proxy](https://github.com/Blazity/next-image-proxy) ⭐ 79 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-14 - [website](https://next-image-proxy.vercel.app/)
 * [use-next-blurhash](https://github.com/ivansevillaa/use-next-blurhash/) ⚠️ Archived - `A custom hook that from a blurhash string will give you a blurDataUrl to add to your dynamics image in nextjs getting so a better user experience.` [Solved -Vercel Deployment Error](https://github.com/ivansevillaa/use-next-blurhash/issues/4) ⚠️ Archived ++
 * [next-superjson](https://github.com/remorses/next-superjson) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-18 `Automatically transform your Next.js Pages to use SuperJSON, without losing swc support`
-* [nextjs-color-mode](https://github.com/Blazity/nextjs-color-mode) ⭐ 28 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13 - [demo](https://nextjs-color-mode.vercel.app/) ` A helper for creating non-flickering and accessible themed applications`
+* [nextjs-color-mode](https://github.com/Blazity/nextjs-color-mode) ⭐ 28 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-14 - [demo](https://nextjs-color-mode.vercel.app/) ` A helper for creating non-flickering and accessible themed applications`
 * [next-i18next](https://github.com/isaachinman/next-i18next) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-27 - [website](https://next-i18next.com/)
 * [runtime-env](https://www.npmjs.com/package/@cuww/runtime-env) – Runtime Environemt Variables for Next.js. Stop configuring ENV variables in CI/CD, use a cloud-native approach (kubernetes, vargant, etc).
 
 ## Build with Nextjs
 
-* [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,477 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-14 - [website](https://jsonvisio.com/)
-* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,682 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-12 - [website](https://chakra-ui.com/)
-* [blitz](https://github.com/blitz-js/blitz) ⭐ 14,122 | 🐛 90 | 🌐 TypeScript | 📅 2025-11-21 - [website](https://blitzjs.com/)
-* [leerob.io](https://github.com/leerob/leerob.io) ⭐ 7,569 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - [website](https://leerob.io/)
+* [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,473 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-14 - [website](https://jsonvisio.com/)
+* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,684 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-12 - [website](https://chakra-ui.com/)
+* [blitz](https://github.com/blitz-js/blitz) ⭐ 14,121 | 🐛 90 | 🌐 TypeScript | 📅 2025-11-21 - [website](https://blitzjs.com/)
+* [leerob.io](https://github.com/leerob/leerob.io) ⭐ 7,570 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - [website](https://leerob.io/)
 * [notion-avatar](https://github.com/Mayandev/notion-avatar) ⭐ 3,226 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-06 - [website](https://notion-avatar.vercel.app/)
 * [chakra-templates](https://github.com/hauptrolle/chakra-templates) ⚠️ Archived - [website](https://chakra-templates.dev/)
 * [egghead-next](https://github.com/eggheadio/egghead-next) ⭐ 1,449 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-04 - [website](https://egghead.io/)
 * [howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) ⭐ 1,277 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-05 - [website](https://howtoprofessionallysay.akashrajpurohit.com/)
 * [heroicons](https://github.com/zaydek/heroicons.dev) ⭐ 1,236 | 🐛 4 | 🌐 TypeScript | 📅 2023-12-19 - [website](https://heroicons.dev/)
-* [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) ⭐ 895 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-13 - [website](https://opencollective.com/)
-* [blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) ⭐ 744 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-06 - [website](https://blog.maximeheckel.com/)
+* [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) ⭐ 895 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-14 - [website](https://opencollective.com/)
+* [blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) ⭐ 744 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 - [website](https://blog.maximeheckel.com/)
 * [danielwirtz.com](https://github.com/wirtzdan/website) ⭐ 547 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-09 - [website](https://danielwirtz.com/)
 * [chakra-ui docs](https://github.com/chakra-ui/chakra-ui-docs) ⚠️ Archived
 * [nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) ⭐ 294 | 🐛 1 | 🌐 MDX | 📅 2026-01-31 - [website](https://nirmalyaghosh.com/)
@@ -319,13 +319,13 @@
 
 ## miscellaneous
 
-* [next-auth](https://github.com/nextauthjs/next-auth) ⭐ 28,366 | 🐛 603 | 🌐 TypeScript | 📅 2026-07-22 - [website](https://next-auth.js.org/) `Authentication for Next.js`
+* [next-auth](https://github.com/nextauthjs/next-auth) ⭐ 28,364 | 🐛 603 | 🌐 TypeScript | 📅 2026-07-22 - [website](https://next-auth.js.org/) `Authentication for Next.js`
 * [Serverless Next.js Component](https://github.com/serverless-nextjs/serverless-next.js) ⚠️ Archived - `Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components`
-* [iron-session](https://github.com/vvo/iron-session) ⭐ 4,146 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-12 - [documentation](https://nextjs.org/docs/authentication)
+* [iron-session](https://github.com/vvo/iron-session) ⭐ 4,147 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-12 - [documentation](https://nextjs.org/docs/authentication)
 * [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) ⭐ 2,671 | 🐛 59 | 🌐 TypeScript | 📅 2023-08-22 - `Redux Wrapper for Next.js`
 * [nookies](https://github.com/maticzav/nookies) ⭐ 2,354 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-18 - `A set of cookie helpers for Next.js`
 * [next-connect](https://github.com/hoangvvo/next-connect) ⭐ 1,653 | 🐛 43 | 🌐 TypeScript | 📅 2024-02-15 - `The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2`
-* [faustjs](https://github.com/wpengine/faustjs) ⭐ 1,607 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-09 - [Getting Started with Next.js](https://faustjs.org/docs/next/getting-started) `Faust.js - The Headless WordPress Framework`
+* [faustjs](https://github.com/wpengine/faustjs) ⭐ 1,607 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-14 - [Getting Started with Next.js](https://faustjs.org/docs/next/getting-started) `Faust.js - The Headless WordPress Framework`
 * [polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) ⭐ 1,322 | 🐛 42 | 🌐 JavaScript | 📅 2023-09-26 `A full stack digital marketplace running on Ethereum with Polygon & Next.js`
 * [reflexjs](https://github.com/reflexjs/reflexjs) ⭐ 1,013 | 🐛 37 | 🌐 JavaScript | 📅 2023-07-13 - [website](https://reflexjs.org/) `A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.`
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived- [website](https://nextein.elmasse.io/) `A static site generator with markdown + react for Next.js`
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
